@@ -1,5 +1,5 @@
 
-# MarsrockyDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Homepage of NTU MARS Lab
 
 Visit **[marslab.tech](http://marslab.tech)** 🚀
 
