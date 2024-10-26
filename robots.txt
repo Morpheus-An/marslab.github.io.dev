@@ -1,1 +1,1 @@
-Sitemap: https://marsrocky.github.io/marslab.github.io/sitemap.xml
+Sitemap: http://marslab.tech/sitemap.xml
