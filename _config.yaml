@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: MARS Lab
 subtitle: Nanyang Technological University
-description: 
+description: Multimodal AI and Robotic Systems (MARS) Lab builds multimodal perception and LLMs for robotics and AIoT systems.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
