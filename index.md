@@ -1,9 +1,7 @@
 ---
 ---
 
-# MarsrockyDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
-
+Multimodal AI and Robotic Systems (MARS) Lab is led by [Prof. Jianfei Yang](https://marsyang.site/) in Nanyang Technological University, Singapore. MARS Lab builds multimodal perception and LLMs for robotics and IoT systems.
 
 {% include section.html %}
 
