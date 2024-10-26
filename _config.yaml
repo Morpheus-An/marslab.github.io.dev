@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: Multimodal AI and Robotic Systems (MARS) Lab
-subtitle: 
+title: MARS Lab
+subtitle: Nanyang Technological University
 description: 
 header: images/background.jpg
 footer: images/background.jpg
@@ -9,11 +9,11 @@ proofer: false
 # site social media and other links
 links:
   email: jianfei.yang@ntu.edu.sg
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: MarsrockyDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: MarsrockyDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: MarsrockyDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  orcid: 0000-0002-8075-0439
+  google-scholar: V25k08UAAAAJ
+  github: Marsrocky
+  twitter: NA
+  youtube: NA
 
 ### jekyll settings
 
