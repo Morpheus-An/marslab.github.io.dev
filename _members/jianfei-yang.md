@@ -1,7 +1,7 @@
 ---
 name: Jianfei Yang
 image: images/members/yang-jianfei.jpg
-role: Assistant Professor
+role: pi
 affiliation: SYSU (BEng), NTU (PhD)
 aliases:
   - J. Yang
