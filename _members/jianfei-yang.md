@@ -2,7 +2,7 @@
 name: Jianfei Yang
 image: images/members/yang-jianfei.jpg
 role: pi
-affiliation: SYSU (BEng), NTU (PhD)
+affiliation: Nanyang Technological University
 aliases:
   - J. Yang
 links:
