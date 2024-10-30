@@ -22,3 +22,21 @@ li {
     margin: 0;
   }
 }
+
+/* 定义两列布局容器 */
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px; /* 控制列之间的间距 */
+}
+
+/* 左列样式 */
+.left-column {
+  flex: 1; /* 占据容器的固定宽度或一定比例 */
+  max-width: 300px; /* 你可以根据需要调整宽度 */
+}
+
+/* 右列样式 */
+.right-column {
+  flex: 3; /* 占据更多的空间 */
+}
