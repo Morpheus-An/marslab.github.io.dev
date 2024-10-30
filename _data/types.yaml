@@ -16,7 +16,7 @@ phd:
 
 master:
   icon: fa-solid fa-user-graduate
-  description: Master Student
+  description: MEng Student
 
 undergrad:
   icon: fa-solid fa-user-graduate
