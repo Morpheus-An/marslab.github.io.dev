@@ -15,6 +15,7 @@ Our lab is a team focused on how AI can enable physical systems—such as roboti
 <br>
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: master" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 {% include list.html data="members" component="portrait" filters="role: programmer" %}
 {% include centerer.html html=html %}
