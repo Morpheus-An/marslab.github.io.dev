@@ -7,27 +7,26 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is part of the [School of Mechanical and Aerospace Engineering](https://www.ntu.edu.sg/mae/), at [Nanyang Technological University](https://www.ntu.edu.sg).
+We are located at N3-01a-01, Block N3, 50 Nanyang Ave, 639798.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="jianfei.yang@ntu.edu.sg"
+  link="jianfei.yang@ntu.edu.sg"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(65) 8158-6831"
+  link="+65-8158-6831"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/Block+N3/@1.3474987,103.6793986,17z/data=!3m1!5s0x31da0f754e8195cb:0x556fd948c6a7f965!4m10!1m2!2m1!1sNTU+Block+N3!3m6!1s0x31da0f750415f4a3:0x762030a8d62432b9!8m2!3d1.3471362!4d103.6820213!15sCgxOVFUgQmxvY2sgTjOSAQp1bml2ZXJzaXR54AEA!16s%2Fg%2F1ptwyh4g3?entry=ttu&g_ep=EgoyMDI0MTAyNy4wIKXMDSoASAFQAw%3D%3D"
 %}
 
 {% include section.html %}
