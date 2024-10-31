@@ -24,9 +24,42 @@
   </span>
   {%- endif -%}
 
-  {%- if include.roletext -%}
+  {%- if include.role -%}
+  {%- assign text = "Default Role" -%}
+
+  {%- if include.type == "pi" -%}
+  {%- assign roletext = "Principal Investigator" -%}
+  {%- endif -%}
+  
+  {%- if include.type == "postdoc" -%}
+  {%- assign roletext = "Postdoctoral Researcher" -%}
+  {%- endif -%}
+  
+  {%- if include.type == "phd" -%}
+  {%- assign roletext = "PhD Student" -%}
+  {%- endif -%}
+  
+  {%- if include.type == "master" -%}
+  {%- assign roletext = "Master Student" -%}
+  {%- endif -%}
+  
+  {%- if include.type == "phd_g" -%}
+  {%- assign roletext = "PhD (graduated)" -%}
+  {%- endif -%}
+  
+  {%- if include.type == "undergrad" -%}
+  {%- assign roletext = "Undergraduate Student" -%}
+  {%- endif -%}
+  
+  {%- if include.type == "programmer" -%}
+  {%- assign roletext = "Programmer" -%}
+  {%- endif -%}
+  
+  {%- if include.type == "mascot" -%}
+  {%- assign roletext = "Mascot" -%}
+  {%- endif -%}
   <span class="portrait_name">
-    {{ include.roletext }}
+    {{ roletext }}
   </span>
   {%- endif -%}
   
