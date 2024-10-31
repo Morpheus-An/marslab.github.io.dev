@@ -36,9 +36,15 @@ Dr. Yang is an Assistant Professor at Nanyang Technological University. His rese
 *International Conference on Learning Representations 2024 (ICLR 2024)*
 
 [2] **MM-Fi: Multi-Modal Non-Intrusive 4D Human Dataset for Versatile Wireless Sensing.**
-**Jianfei Yang**, He Huang, Yunjiao Zhou, Xinyan Chen, Yuecong Xu, Han Zou, Chris Lu, and Lihua Xie   
+**Jianfei Yang**, He Huang, Yunjiao Zhou, Xinyan Chen, Yuecong Xu, Han Zou, Chris Lu, and Lihua Xie 
 *37th Conference on Neural Information Processing Systems 2023 Dataset and Benchmarks Track (NeurIPS 2023)*
 
-[3] **Divide to Adapt: Mitigating Confirmation Bias for Domain Adaptation of Black-Box 
+[3] **Divide to Adapt: Mitigating Confirmation Bias for Domain Adaptation of Black-Box Predictors.**   
+**Jianfei Yang**, Xiangyu Peng, Kai Wang, Zheng Zhu, Jiashi Feng, Lihua Xie, and Yang You
+*International Conference on Learning Representations 2023 (ICLR 2023)*, <span style="color: red;">Selected as Spotlight (top 7.5%)</span>
 
-_Disclosure_: Rob is a co-founder and the CTO of [Ocean Genomics inc.](https://oceangenomics.com/).
+[4] **SenseFi: A Library and Benchmark on Deep-Learning-Empowered WiFi Human Sensing.**   
+**Jianfei Yang**, Xinyan Chen, Dazhuo Wang, Han Zou, Chris Lu, Sumei Sun, and Lihua Xie.   
+*Patterns 4, no. 3 Cell Press*, 2023
+
+<!--_Disclosure_: Rob is a co-founder and the CTO of [Ocean Genomics inc.](https://oceangenomics.com/).-->
