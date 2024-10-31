@@ -1,6 +1,6 @@
 ---
 name: Zhou Chuhao
-image: images/chuhao-zhou.jpg
+image: images/members/chuhao-zhou.jpg
 role: phd
 affiliation: Nanyang Technological University
 aliases:
