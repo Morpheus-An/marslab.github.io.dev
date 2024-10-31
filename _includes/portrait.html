@@ -24,15 +24,15 @@
   </span>
   {%- endif -%}
 
+  {%- if include.roletext -%}
+  <span class="portrait_name">
+    {{ include.roletext }}
+  </span>
+  {%- endif -%}
+  
   {%- if include.affiliation -%}
   <span class="portrait_name">
     {{ include.affiliation }}
-  </span>
-  {%- endif -%}
-
-  {%- if include.role -%}
-  <span class="portrait_name">
-    {{ include.roletext }}
   </span>
   {%- endif -%}
 
