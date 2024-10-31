@@ -3,6 +3,7 @@ title: Chenxi Jiang
 search:
   - C. Jiang
 role: master
+affiliation: Nanyang Technological University
 group: current
 image: images/members/jiang-chenxi.jpg
 email: CHENXI003@e.ntu.edu.sg
