@@ -4,7 +4,7 @@ image: images/members/jiang-chenxi.jpg
 role: master
 links:
   orcid: 0009-0005-5581-097X
-  email: jiangchenxi0110@gmial.com
+  email: CHENXI003@e.ntu.edu.sg
 ---
 
 ### Education
