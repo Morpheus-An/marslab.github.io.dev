@@ -1,50 +1,46 @@
 ---
 ---
 
+@import "variables";
+@import "mixins";
+
 h1,
 h2,
 h3,
-h4,
-h5,
-h6 {
+h4 {
+  box-sizing: border-box;
+  font-family: $sans;
+  font-weight: $medium;
+  line-height: 1.2;
   margin: 40px 0 20px 0;
-  font-family: var(--heading);
-  font-weight: var(--semi-bold);
-  text-align: left;
-  letter-spacing: 1px;
-}
+  @include trim-margins;
+  padding: 10px 0;
 
+  & > i {
+    color: $light-gray;
+    margin-right: 1rem;
+  }
+}
 h1 {
-  font-size: 1.6rem;
-  font-weight: var(--regular);
+  font-size: 1.4rem;
+  letter-spacing: 2px;
   text-transform: uppercase;
   text-align: center;
-}
 
+  & + p {
+    margin-top: 40px;
+  }
+}
 h2 {
-  font-size: 1.6rem;
-  padding-bottom: 5px;
-  border-bottom: solid 1px var(--light-gray);
-  font-weight: var(--regular);
-}
-
-h3 {
-  font-size: 1.5rem;
-}
-
-h4 {
   font-size: 1.3rem;
+  letter-spacing: 1px;
+  text-align: center;
 }
-
-h5 {
-  font-size: 1.15rem;
+h3 {
+  font-size: 1.1rem;
+  text-align: center;
 }
-
-h6 {
+h4 {
   font-size: 1rem;
-}
-
-:where(h1, h2, h3, h4, h5, h6) > .icon {
-  margin-right: 1em;
-  color: var(--light-gray);
+  text-align: left;
 }

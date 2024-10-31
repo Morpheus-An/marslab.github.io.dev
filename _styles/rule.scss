@@ -1,9 +1,11 @@
 ---
 ---
 
+@import "variables";
+
 hr {
   margin: 40px 0;
-  background: var(--light-gray);
+  background: $light-gray;
   border: none;
   height: 1px;
 }
