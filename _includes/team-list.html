@@ -39,6 +39,30 @@
 {% assign members = members | where_exp: "member", "member.affiliation == affiliation" %}
 {% endif %}
 
+{% if include.role != nil %}
+{% if include.role == "" %}
+{% assign role = nil %}
+{% else %}
+{% assign role = include.role %}
+{% endif %}
+{% if include.type == "pi" %}
+{% assign roletext = "Principal Investigator" %}
+{% endif %}
+{% if include.type == "phd" %}
+{% assign roletext = "PhD Student" %}
+{% endif %}
+{% if include.type == "postdoc" %}
+{% assign roletext = "Postdoctoral Researcher" %}
+{% endif %}
+{% if include.type == "master" %}
+{% assign roletext = "Master Student" %}
+{% endif %}
+{% if include.type == "undergrad" %}
+{% assign roletext = "Undergraduate Student" %}
+{% endif %}
+{% assign members = members | where_exp: "member", "member.roletext == roletext" %}
+{% endif %}
+
 {% for member in members %}
 {%-
   include portrait.html
@@ -47,7 +71,7 @@
   image=member.image
   role=member.role
   affiliation=member.affiliation
-  roletype = site.data.types[member.role]
+  roletype=member.roletext
   mini=include.mini
 -%}
 {% endfor %}
