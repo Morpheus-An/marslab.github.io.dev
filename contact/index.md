@@ -8,7 +8,8 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 Our lab is part of the [School of Mechanical and Aerospace Engineering](https://www.ntu.edu.sg/mae/), at [Nanyang Technological University](https://www.ntu.edu.sg).
-We are located at N3-01a-01, Block N3, 50 Nanyang Ave, 639798.
+
+We are located at [N3-01a-01, Block N3, 50 Nanyang Ave, 639798](https://www.google.com/maps/place/Block+N3/@1.3471362,103.5378257,12z/data=!3m1!5s0x31da0f754e8195cb:0x556fd948c6a7f965!4m10!1m2!2m1!1sN3!3m6!1s0x31da0f750415f4a3:0x762030a8d62432b9!8m2!3d1.3471362!4d103.6820213!15sCgJOM5IBCnVuaXZlcnNpdHngAQA!16s%2Fg%2F1ptwyh4g3?entry=ttu&g_ep=EgoyMDI0MTAyNy4wIKXMDSoASAFQAw%3D%3D).
 
 {%
   include button.html
@@ -35,8 +36,8 @@ We are located at N3-01a-01, Block N3, 50 Nanyang Ave, 639798.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/school/arc.jpg"
+  caption="NTU Learning Center"
 %}
 
 {% endcapture %}
@@ -45,8 +46,8 @@ We are located at N3-01a-01, Block N3, 50 Nanyang Ave, 639798.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/school/yunnan_garden.jpg"
+  caption="NTU Yunnan Garden"
 %}
 
 {% endcapture %}
