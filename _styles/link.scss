@@ -1,16 +1,12 @@
 ---
 ---
 
+@import "variables";
+
 a {
-  color: var(--primary);
-  transition: color var(--transition);
-  overflow-wrap: break-word;
+  color: $theme;
+  transition: color $fast;
 }
-
 a:hover {
-  color: var(--text);
-}
-
-a:not([href]) {
-  color: var(--text);
+  color: $black;
 }
