@@ -1,6 +1,6 @@
 ---
 name: Jiang Chenxi
-image: images/photo.jpg
+image: images/members/jiang-chenxi.jpg
 role: master
 links:
   email: jiangchenxi0110@gmial.com
