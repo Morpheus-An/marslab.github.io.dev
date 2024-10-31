@@ -5,6 +5,7 @@ search:
 role: pi
 group: current
 image: images/members/yang-jianfei.jpg
+affiliation: Nanyang Technological University
 email: jianfei.yang@ntu.edu.sg
 twitter: Jianfei_AI
 affiliation: Nanyang Technological University
