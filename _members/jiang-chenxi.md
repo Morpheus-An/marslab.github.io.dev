@@ -4,7 +4,6 @@ image: images/members/jiang-chenxi.jpg
 role: master
 links:
   email: jiangchenxi0110@gmial.com
-  twitter: sarahjohnson
 ---
 
 ### Education
