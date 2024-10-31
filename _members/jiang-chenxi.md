@@ -3,7 +3,7 @@ name: Jiang Chenxi
 image: images/photo.jpg
 role: master
 links:
-  email: sarah.johnson@gmail.com
+  email: jiangchenxi0110@gmial.com
   twitter: sarahjohnson
 ---
 
