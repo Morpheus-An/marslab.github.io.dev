@@ -1,43 +1,21 @@
 ---
 title: Team
-redirect_from:
-  - /lab-members
-  - /alums
-  - /mascots
-  - /staff
-  - /trainees
+nav:
+  order: 3
+  tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>
+# {% include icon.html icon="fa-solid fa-users" %} Members
 
 ## Current Members
 
-Our lab is a team focused on improving the reach, accuracy, and speed of computational analysis, specifically as
-it relates to genomics (and Biology more broadly).  We are a varied and friendly bunch.  If you're interested in 
-the work we're doing, please reach out!
+Our MARS lab is a close-knit family of **passionate researchers**, bound by kindness and camaraderie as we work together to push the scientific frontiers of AI and robotics. 
+With shared dedication, we strive to advance science and create impactful innovations that shape the future. United in purpose, we aim to build a **supportive and inspiring environment** for everyone in our team.
 
-{% capture html %}
 {% include team-list.html role="pi" group="current" %}
+<br>
 {% include team-list.html role="postdoc" group="current" %}
 {% include team-list.html role="phd" group="current" %}
 {% include team-list.html role="undergrad" group="current" %}
 {% include team-list.html role="programmer" group="current" %}
-{% include team-list.html role="mascot" group="current" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
-
-<!-- section break -->
-
-## Alumni
-
-We are incredibly proud of all of the COMBINE-lab alumni who have passed through the lab, for whatever period of time they were with us. Below
-is a list of lab alumni (if you feel you're missing from the list and would like to be added, please e-mail us):
-
-{% capture html %}
-{% include team-list.html role="pi" group="alum" mini="true" %}
-{% include team-list.html role="phd_g" group="alum" mini="true" %}
-{% include team-list.html role="undergrad" group="alum" mini="true" %}
-{% endcapture %}
-
 {% include centerer.html html=html %}
