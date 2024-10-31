@@ -3,7 +3,6 @@ title: Jianfei yang
 search:
   - J. Yang
 role: pi
-roletext: Principal Investigator
 group: current
 image: images/members/yang-jianfei.jpg
 affiliation: Nanyang Technological University
