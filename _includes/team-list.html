@@ -39,26 +39,11 @@
 {% assign members = members | where_exp: "member", "member.affiliation == affiliation" %}
 {% endif %}
 
-{% if include.role != nil %}
-{% if include.role == "" %}
-{% assign role = nil %}
+{% if include.roletext != nil %}
+{% if include.roletext == "" %}
+{% assign roletext = nil %}
 {% else %}
-{% assign role = include.role %}
-{% endif %}
-{% if include.type == "pi" %}
-{% assign roletext = "Principal Investigator" %}
-{% endif %}
-{% if include.type == "phd" %}
-{% assign roletext = "PhD Student" %}
-{% endif %}
-{% if include.type == "postdoc" %}
-{% assign roletext = "Postdoctoral Researcher" %}
-{% endif %}
-{% if include.type == "master" %}
-{% assign roletext = "Master Student" %}
-{% endif %}
-{% if include.type == "undergrad" %}
-{% assign roletext = "Undergraduate Student" %}
+{% assign roletext = include.roletext %}
 {% endif %}
 {% assign members = members | where_exp: "member", "member.roletext == roletext" %}
 {% endif %}
