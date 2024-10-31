@@ -1,16 +1,15 @@
 ---
-name: Jianfei Yang
-image: images/members/yang-jianfei.jpg
-role: pi
-affiliation: Nanyang Technological University
-aliases:
+title: Jianfei yang
+search:
   - J. Yang
-links:
-  home-page: https://marsyang.site
-  orcid: 0000-0002-8075-0439
-  email: jianfei.yang@ntu.edu.sg
-  twitter: Jianfei_AI
+role: pi
+group: current
+image: images/members/yang-jianfei.jpg
+email: jianfei.yang@ntu.edu.sg
+twitter: Jianfei_AI
+affiliation: Nanyang Technological University
 ---
+
 Dr. Yang is an Assistant Professor at Nanyang Technological University. His research interests include Physical AI, multimodal LLM, and robotics.
 
 ### Education
