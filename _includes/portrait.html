@@ -9,6 +9,7 @@
 
 {% assign type = site.data.types[member.role] %}
 
+<div class="portrait-wrapper">
   <a
     {% if page.slug != member.slug %}
       href="{{ member.url | relative_url }}"
@@ -47,3 +48,4 @@
       </span>
     {% endif %}
   </a>
+</div>
