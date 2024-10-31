@@ -3,6 +3,7 @@ title: Chenxi Jiang
 search:
   - C. Jiang
 role: master
+roletext: Master Student
 group: current
 image: images/members/jiang-chenxi.jpg
 email: CHENXI003@e.ntu.edu.sg
