@@ -1,9 +1,30 @@
 ---
 name: Zhou Chuhao
-image: images/photo.jpg
+image: images/zhou-chuhao.jpg
 role: phd
-group: alum
+affiliation: Nanyang Technological University
+aliases:
+  - C. Zhou
 links:
-  github: xx
+  home-page: https://chuhaozhou99.github.io/Chuhao-Zhou/
+  orcid: 0000-0002-4363-8931
+  email: zhouchuhao99@gmail.com
+ 
 ---
+
+Chuhao Zhou is a PhD student at Nanyang Technological University. His research interests include Physical AI, multimodal LLM, and robotics.
+
+### Education
+- PhD student, 2024-
+  - Nanyang Technological University (NTU), Singapore
+- Master of Engineering, 2021-2024
+  - Harbin Institute of Technology, Shenzhen
+- Bachelor of Engineering, 2017-2021
+  - Harbin Institute of Technology, Shenzhen
+ 
+### Experience
+- Research Intern, 2024
+  - International Digital Economy Academy (IDEA), Shenzhen, China
+
+
 
