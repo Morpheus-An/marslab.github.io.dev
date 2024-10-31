@@ -2,7 +2,7 @@
 name: Zhou Chuhao
 image: images/members/chuhao-zhou.jpg
 role: phd
-affiliation: Nanyang Technological University
+affiliation: HIT-SZ (BEng, MEng)
 aliases:
   - C. Zhou
 links:
