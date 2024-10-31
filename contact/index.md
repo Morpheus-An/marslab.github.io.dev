@@ -36,7 +36,7 @@ We are located at [N3-01a-01, Block N3, 50 Nanyang Ave, 639798](https://www.goog
 
 {%
   include figure.html
-  image="images/school/arc.jpg"
+  image="images/lab/arc.jpg"
   caption="NTU Learning Center"
 %}
 
@@ -46,7 +46,7 @@ We are located at [N3-01a-01, Block N3, 50 Nanyang Ave, 639798](https://www.goog
 
 {%
   include figure.html
-  image="images/school/yunnan_garden.jpg"
+  image="images/lab/yunnan_garden.jpg"
   caption="NTU Yunnan Garden"
 %}
 
