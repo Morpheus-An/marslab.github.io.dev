@@ -30,6 +30,15 @@
 {% assign members = members | where_exp: "member", "member.group == group" %}
 {% endif %}
 
+{% if include.affiliation != nil %}
+{% if include.affiliation == "" %}
+{% assign affiliation = nil %}
+{% else %}
+{% assign affiliation = include.affiliation %}
+{% endif %}
+{% assign members = members | where_exp: "member", "member.affiliation == affiliation" %}
+{% endif %}
+
 {% for member in members %}
 {%-
   include portrait.html
@@ -37,6 +46,8 @@
   link=member.url
   image=member.image
   role=member.role
+  affiliation=member.affiliation
+  roletype = site.data.types[member.role]
   mini=include.mini
 -%}
 {% endfor %}
