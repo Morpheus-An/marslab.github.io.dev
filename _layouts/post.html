@@ -1,38 +1,24 @@
 ---
-# inherits from default layout and builds on top of it
-# this file's contents get inserted into default.html's content
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+{% include section.html background=page.image %}
 
-{% capture html %}
-{% include post-info.html post=page %}
-{% endcapture %}
+<h1 class="center">{{ page.title }}</h1>
 
-{% assign html = html | strip %}
-{% if html != empty %}
-{% include centerer.html html=html %}
-{% endif %}
+{%
+  include post-info.html
+  author=page.author
+  member=page.member
+  published=page.date
+  updated=page.last_modified_at
+  tags=page.tags
+%}
 
-{% capture html %}
-{% include tags.html tags=page.tags %}
-{% endcapture %}
-
-{% assign html = html | strip %}
-{% if html != empty %}
-{% include centerer.html html=html %}
-{% endif %}
-
-<!-- section break -->
+{% include section.html %}
 
 {{ content }}
 
-<!-- section break -->
+{% include section.html %}
 
 {% include post-nav.html post=page %}
-
-{% comment %}
-Put comment service plugin code here. If a plugin requires a unique page
-identifier, just use "{{ page.url | absolute_url }}", with the quotes.
-{% endcomment %}
