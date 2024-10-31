@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: ChuhaoZhou99DESCRIPTION=An engaging 1-3 sentence description of your lab.
-subtitle: 
-description: 
+title: NTU MARS Lab
+subtitle: <strong>M</strong>ultimodal <strong>A</strong>I and <strong>R</strong>obotic <strong>S</strong>ystems Lab
+description: Multimodal AI and Robotic Systems (MARS) Lab builds multimodal perception and LLMs for robotics and AIoT systems.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@ChuhaoZhou99DESCRIPTION=An engaging 1-3 sentence description of your lab..com
+  email: jianfei.yang@ntu.edu.sg
   orcid: 0000-0002-8075-0439
   google-scholar: V25k08UAAAAJ
-  github: ChuhaoZhou99DESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: ChuhaoZhou99DESCRIPTION=An engaging 1-3 sentence description of your lab.
+  github: Marsrocky
+  twitter: Jianfei_AI
   # youtube: NA
 
 ### jekyll settings
