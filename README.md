@@ -1,5 +1,5 @@
 
-# ChuhaoZhou99DESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Testing Homepage of NTU MARS Lab
 
 Visit **[chuhaozhou99.github.io/marslab.github.io.dev](https://chuhaozhou99.github.io/marslab.github.io.dev)** 🚀
 
