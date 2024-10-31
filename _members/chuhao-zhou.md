@@ -3,6 +3,7 @@ title: Chuhao Zhou
 search:
   - C. Zhou
 role: phd
+affiliation: Nanyang Technological University
 group: current
 image: images/members/chuhao-zhou.jpg
 email: zhouchuhao99@gmail.com
