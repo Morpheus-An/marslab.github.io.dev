@@ -2,6 +2,7 @@
 name: Jiang Chenxi
 image: images/members/jiang-chenxi.jpg
 role: master
+affiliation: BUAA (BEng)
 links:
   orcid: 0009-0005-5581-097X
   email: CHENXI003@e.ntu.edu.sg
