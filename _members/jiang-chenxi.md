@@ -3,8 +3,8 @@ name: Jiang Chenxi
 image: images/members/jiang-chenxi.jpg
 role: master
 links:
+  orcid: 0009-0005-5581-097X
   email: jiangchenxi0110@gmial.com
-  0009-0005-5581-097X
 ---
 
 ### Education
