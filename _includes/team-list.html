@@ -39,15 +39,6 @@
 {% assign members = members | where_exp: "member", "member.affiliation == affiliation" %}
 {% endif %}
 
-{% if include.roletext != nil %}
-{% if include.roletext == "" %}
-{% assign roletext = nil %}
-{% else %}
-{% assign roletext = include.roletext %}
-{% endif %}
-{% assign members = members | where_exp: "member", "member.roletext == roletext" %}
-{% endif %}
-
 {% for member in members %}
 {%-
   include portrait.html
@@ -56,7 +47,6 @@
   image=member.image
   role=member.role
   affiliation=member.affiliation
-  roletext=member.roletext
   mini=include.mini
 -%}
 {% endfor %}
