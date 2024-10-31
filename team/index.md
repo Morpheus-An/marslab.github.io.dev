@@ -5,9 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}
-
-## Members
+# {% include icon.html icon="fa-solid fa-users" %} Members
 
 Our lab is a team focused on how AI can enable physical systems—such as robotics, IoT, and industrial systems—to perceive, understand, and interact with the physical world, specifically as it relates to multimodal AI and LLM. Our lab members have diverse backgrounds and knowledge. If you're interested in the work we're doing, please reach out!
 
