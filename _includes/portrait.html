@@ -25,39 +25,40 @@
   {%- endif -%}
 
   {%- if include.role -%}
-  {%- assign text = "Default Role" -%}
+  {%- assign roletext = "Default Role" -%}
 
-  {%- if include.type == "pi" -%}
+  {%- if include.role == "pi" -%}
   {%- assign roletext = "Principal Investigator" -%}
   {%- endif -%}
   
-  {%- if include.type == "postdoc" -%}
+  {%- if include.role == "postdoc" -%}
   {%- assign roletext = "Postdoctoral Researcher" -%}
   {%- endif -%}
   
-  {%- if include.type == "phd" -%}
+  {%- if include.role == "phd" -%}
   {%- assign roletext = "PhD Student" -%}
   {%- endif -%}
   
-  {%- if include.type == "master" -%}
+  {%- if include.role == "master" -%}
   {%- assign roletext = "Master Student" -%}
   {%- endif -%}
   
-  {%- if include.type == "phd_g" -%}
+  {%- if include.role == "phd_g" -%}
   {%- assign roletext = "PhD (graduated)" -%}
   {%- endif -%}
   
-  {%- if include.type == "undergrad" -%}
+  {%- if include.role == "undergrad" -%}
   {%- assign roletext = "Undergraduate Student" -%}
   {%- endif -%}
   
-  {%- if include.type == "programmer" -%}
+  {%- if include.role == "programmer" -%}
   {%- assign roletext = "Programmer" -%}
   {%- endif -%}
   
-  {%- if include.type == "mascot" -%}
+  {%- if include.role == "mascot" -%}
   {%- assign roletext = "Mascot" -%}
   {%- endif -%}
+  
   <span class="portrait_name">
     {{ roletext }}
   </span>
