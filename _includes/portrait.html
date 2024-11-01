@@ -1,51 +1,73 @@
-{% if include.lookup %}
-  {% assign member = site.members 
-    | where_exp: "member", "member.slug == include.lookup"
-    | first
-  %}
-{% else %}
-  {% assign member = include %}
-{% endif %}
+<!-- This File is corresponding to the Member Circles in the Team Page-->
+<a {% if include.link %}href="{{ include.link | relative_url }}"{% endif %} class="portrait" data-mini="{{ include.mini | default: false }}">
 
-{% assign type = site.data.types[member.role] %}
+  {%- assign placeholder = include.placeholder | default: "images/placeholder.svg" | relative_url -%}
 
-<div class="portrait-wrapper">
-  <a
-    {% if page.slug != member.slug %}
-      href="{{ member.url | relative_url }}"
-    {% endif %}
-    class="portrait"
-    data-style="{{ include.style }}"
-    aria-label="{{ member.name | default: "member link" }}"
-  >
-    {% if type %}
-      {% include icon.html icon=type.icon %}
-    {% endif %}
-
+  <span class="portrait_image">
+    {%- if include.image -%}
     <img
-      src="{{ member.image | relative_url }}"
-      class="portrait-image"
-      alt="member portrait"
-      loading="lazy"
-      {% include fallback.html %}
+      src="{{ include.image | relative_url }}"
+      onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
     >
+    {%- else -%}
+    <img src="{{ placeholder }}">
+    {%- endif -%}
+  </span>
 
-    {% if member.name %}
-      <span class="portrait-name">
-        {{ member.name }}
-      </span>
-    {% endif %}
+  {%- if include.role -%}
+  {%- include role.html type=include.role -%}
+  {%- endif -%}
 
-    {% if member.description or type %}
-      <span class="portrait-description">
-        {{ member.description | default: type.description }}
-      </span>
-    {% endif %}
+  {%- if include.name -%}
+  <span class="portrait_name">
+    {{ include.name }}
+  </span>
+  {%- endif -%}
 
-    {% if member.affiliation %}
-      <span class="portrait-affiliation">
-        {{ member.affiliation }}
-      </span>
-    {% endif %}
-  </a>
-</div>
+  {%- if include.role -%}
+  {%- assign roletext = "Default Role" -%}
+
+  {%- if include.role == "pi" -%}
+  {%- assign roletext = "Principal Investigator" -%}
+  {%- endif -%}
+  
+  {%- if include.role == "postdoc" -%}
+  {%- assign roletext = "Postdoctoral Researcher" -%}
+  {%- endif -%}
+  
+  {%- if include.role == "phd" -%}
+  {%- assign roletext = "PhD Student" -%}
+  {%- endif -%}
+  
+  {%- if include.role == "master" -%}
+  {%- assign roletext = "Master Student" -%}
+  {%- endif -%}
+  
+  {%- if include.role == "phd_g" -%}
+  {%- assign roletext = "PhD (graduated)" -%}
+  {%- endif -%}
+  
+  {%- if include.role == "undergrad" -%}
+  {%- assign roletext = "Undergraduate Student" -%}
+  {%- endif -%}
+  
+  {%- if include.role == "programmer" -%}
+  {%- assign roletext = "Programmer" -%}
+  {%- endif -%}
+  
+  {%- if include.role == "mascot" -%}
+  {%- assign roletext = "Mascot" -%}
+  {%- endif -%}
+  
+  <span class="portrait_name">
+    {{ roletext }}
+  </span>
+  {%- endif -%}
+  
+  {%- if include.affiliation -%}
+  <span class="portrait_name">
+    {{ include.affiliation }}
+  </span>
+  {%- endif -%}
+
+</a>

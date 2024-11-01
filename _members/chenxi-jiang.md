@@ -1,11 +1,12 @@
 ---
-name: Jiang Chenxi
-image: images/members/jiang-chenxi.jpg
+title: Chenxi Jiang
+search:
+  - C. Jiang
 role: master
-affiliation: BUAA (BEng)
-links:
-  orcid: 0009-0005-5581-097X
-  email: CHENXI003@e.ntu.edu.sg
+affiliation: Nanyang Technological University
+group: current
+image: images/members/jiang-chenxi.jpg
+email: CHENXI003@e.ntu.edu.sg
 ---
 
 ### Education
