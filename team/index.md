@@ -17,4 +17,3 @@ With shared dedication, we strive to advance science and create impactful innova
 {% include list.html data="members" component="portrait" filters="role: master" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 {% include list.html data="members" component="portrait" filters="role: programmer" %}
-{% include centerer.html html=html %}
