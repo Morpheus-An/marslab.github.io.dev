@@ -20,8 +20,8 @@ We are located at [N3-01a-01, Block N3, 50 Nanyang Ave, 639798](https://www.goog
 {%
   include button.html
   type="phone"
-  text="(65) 8158-6831"
-  link="+65-8158-6831"
+  text="(65) 6790-4936"
+  link="+65-6790-4936"
 %}
 {%
   include button.html
