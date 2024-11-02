@@ -14,3 +14,6 @@ email: CHENXI003@e.ntu.edu.sg
   - Nanyang Technological University (NTU), Singapore
 - Bachelor of Engineering, 2020-2024
   - Beihang University
+
+### Award
+- BUAA Excellence Scholarship
