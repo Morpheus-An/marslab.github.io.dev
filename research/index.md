@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our pioneering research has been recognized in top-tier publications across **AI (TPAMI, IJCV, NeurIPS, ICLR, CVPR, ICCV, ECCV), robotics (ICRA, IROS), and interdisciplinary fields (Cell Patterns, CACIE, BIB)**, reflecting our commitment to advancing science through impactful and innovative contributions.
 
 {% include section.html %}
 
