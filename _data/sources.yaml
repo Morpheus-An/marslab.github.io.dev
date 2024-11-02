@@ -7,8 +7,30 @@
     - type: github
       text: Github
       link: https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark
-    - type: website
+    - type: journal
       link: https://www.cell.com/patterns/fulltext/S2666-3899(23)00040-5
   tags:
     - wifi sensing
     - benchmark
+- id: doi:10.5555/3666122.3666944
+  type: paper
+  description: The first multi-modal non-intrusive 4D human dataset.
+  date: 2023-05-11
+  image: https://ntu-aiot-lab.github.io/static/images/setup.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/pdf/2305.10345
+    - type: github
+      text: Github
+      link: https://github.com/ybhbingo/MMFi_dataset
+    - type: website
+      link: https://ntu-aiot-lab.github.io/mm-fi
+  tags:
+    - multimodal dataset
+    - 4D human sensing
+    - human pose estimation
+    - non-intrusive sensing
+- id: doi:10.1007/s11263-023-01932-5
+- id: doi:10.1109/ICCV51070.2023.01724
+- id: doi:10.48550/arXiv.2305.18712
+- id: doi:10.1109/ICCV51070.2023.01724
