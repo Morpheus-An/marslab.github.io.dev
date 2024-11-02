@@ -40,7 +40,7 @@
   - Han Zou
   - Chris Xiaoxuan Lu
   - Lihua Xie
-  publisher: arXiv
+  publisher: NeurIPS 2023 Datasets and Benchmarks Track
   date: '2023-05-11'
   link: https://arxiv.org/abs/2305.10345
   type: paper
@@ -100,8 +100,30 @@
   - Yuecong Xu
   - Kai Wang
   - Lihua Xie
-  publisher: arXiv
+  publisher: ICLR 2024
   date: '2023-01-01'
   link: https://doi.org/g8pxwd
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2205.14467
+  title: 'Divide to Adapt: Mitigating Confirmation Bias for Domain Adaptation of Black-Box
+    Predictors'
+  authors:
+  - Jianfei Yang
+  - Xiangyu Peng
+  - Kai Wang
+  - Zheng Zhu
+  - Jiashi Feng
+  - Lihua Xie
+  - Yang You
+  publisher: ICLR 2023
+  date: '2022-05-31'
+  link: https://arxiv.org/abs/2205.14467
+  buttons:
+  - type: paper
+    link: https://arxiv.org/pdf/2205.14467
+  - type: github
+    text: Github
+    link: https://github.com/xyupeng/BETA
   plugin: sources.py
   file: sources.yaml
