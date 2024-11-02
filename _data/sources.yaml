@@ -15,7 +15,6 @@
     - open science
     - collaboration
   repo: greenelab/meta-review
-
 - id: doi:10.1016/j.patter.2023.100703
   type: paper
   description: The first open-source benchmark on deep learning empowered WiFi sensing.
