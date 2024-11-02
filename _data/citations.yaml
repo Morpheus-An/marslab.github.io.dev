@@ -512,3 +512,30 @@
   repo: greenelab/meta-review
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.patter.2023.100703
+  title: 'SenseFi: A library and benchmark on deep-learning-empowered WiFi human sensing'
+  authors:
+  - Jianfei Yang
+  - Xinyan Chen
+  - Han Zou
+  - Chris Xiaoxuan Lu
+  - Dazhuo Wang
+  - Sumei Sun
+  - Lihua Xie
+  publisher: Patterns
+  date: '2020-12-04'
+  link: https://doi.org/gsmbtr
+  type: paper
+  description: The first open-source benchmark on deep learning empowered WiFi sensing.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666389923000405-gr3.jpg
+  buttons:
+  - type: source
+    text: Github
+    link: https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark
+  - type: website
+    link: https://www.cell.com/patterns/fulltext/S2666-3899(23)00040-5
+  tags:
+  - wifi sensing
+  - benchmark
+  plugin: sources.py
+  file: sources.yaml
