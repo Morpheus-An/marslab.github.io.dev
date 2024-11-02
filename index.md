@@ -11,7 +11,7 @@ MARS Lab studies **Physical AI**, focusing on how AI can enable physical systems
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research has been featured in top-tier publications across AI (NeurIPS, ICLR, CVPR, TPAMI, IJCV), robotics (ICRA, IROS), and interdisciplinary fields (Cell Patterns, CACIE).
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our projects embody the open-source spirit, driving scientific and technological advancements from innovative AI algorithms to cutting-edge robotic and AIoT system solutions.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our MARS Lab is a close-knit family of passionate researchers dedicated to advancing AI and robotics, fostering an inspiring and supportive environment for everyone as we shape the future through impactful innovations.
 
 {%
   include button.html
