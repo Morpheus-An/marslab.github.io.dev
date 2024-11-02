@@ -2,13 +2,12 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Open-source solutions, datasets, and more
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our projects embody the open-source spirit, driving scientific and technological advancements through innovative AI algorithms and cutting-edge robotic and AIoT system solutions, with real-world applications spanning smart cities, smart home, healthcare, and personalized assistive technologies.
 
 {% include tags.html tags="publication, resource, website" %}
 
