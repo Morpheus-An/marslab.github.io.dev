@@ -34,7 +34,7 @@ Our research has been featured in top-tier publications across AI (NeurIPS, ICLR
 
 {% capture text %}
 
-Our projects embody the open-source spirit, driving scientific and technological advancements from innovative AI algorithms to cutting-edge robotic and AIoT system solutions.
+Our MARS Lab embodies the open-source spirit, driving scientific and technological advancements from innovative AI algorithms to cutting-edge robotic and AIoT system solutions.
 
 {%
   include button.html
