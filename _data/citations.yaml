@@ -20,10 +20,88 @@
   - type: github
     text: Github
     link: https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark
-  - type: website
+  - type: journal
     link: https://www.cell.com/patterns/fulltext/S2666-3899(23)00040-5
   tags:
   - wifi sensing
   - benchmark
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2305.10345
+  title: 'MM-Fi: Multi-Modal Non-Intrusive 4D Human Dataset for Versatile Wireless
+    Sensing'
+  authors:
+  - Jianfei Yang
+  - He Huang
+  - Yunjiao Zhou
+  - Xinyan Chen
+  - Yuecong Xu
+  - Shenghai Yuan
+  - Han Zou
+  - Chris Xiaoxuan Lu
+  - Lihua Xie
+  publisher: arXiv
+  date: '2023-05-11'
+  link: https://arxiv.org/abs/2305.10345
+  type: paper
+  description: The first multi-modal non-intrusive 4D human dataset.
+  image: https://ntu-aiot-lab.github.io/static/images/setup.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/pdf/2305.10345
+  - type: github
+    text: Github
+    link: https://github.com/ybhbingo/MMFi_dataset
+  - type: website
+    link: https://ntu-aiot-lab.github.io/mm-fi
+  tags:
+  - multimodal dataset
+  - 4D human sensing
+  - human pose estimation
+  - non-intrusive sensing
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11263-023-01932-5
+  title: 'Going Deeper into Recognizing Actions in Dark Environments: A Comprehensive
+    Benchmark Study'
+  authors:
+  - Yuecong Xu
+  - Haozhi Cao
+  - Jianxiong Yin
+  - Zhenghua Chen
+  - Xiaoli Li
+  - Zhengguo Li
+  - Qianwen Xu
+  - Jianfei Yang
+  publisher: International Journal of Computer Vision
+  date: '2023-11-08'
+  link: https://doi.org/g8pwz3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICCV51070.2023.01724
+  title: Multi-Modal Continual Test-Time Adaptation for 3D Semantic Segmentation
+  authors:
+  - Haozhi Cao
+  - Yuecong Xu
+  - Jianfei Yang
+  - Pengyu Yin
+  - Shenghai Yuan
+  - Lihua Xie
+  publisher: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
+  date: '2023-10-01'
+  link: https://doi.org/g8pxwc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2305.18712
+  title: Can We Evaluate Domain Adaptation Models Without Target-Domain Labels?
+  authors:
+  - Jianfei Yang
+  - Hanjie Qian
+  - Yuecong Xu
+  - Kai Wang
+  - Lihua Xie
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g8pxwd
   plugin: sources.py
   file: sources.yaml
