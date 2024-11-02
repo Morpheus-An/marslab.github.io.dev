@@ -8,7 +8,8 @@ image: images/members/yang-jianfei.jpg
 affiliation: Nanyang Technological University
 email: jianfei.yang@ntu.edu.sg
 twitter: Jianfei_AI
-affiliation: Nanyang Technological University
+google-scholar: V25k08UAAAAJ
+linkedin: jianfei-yang-55560386
 ---
 
 Dr. Yang is an Assistant Professor at Nanyang Technological University. His research interests include Physical AI, multimodal LLM, and robotics.
