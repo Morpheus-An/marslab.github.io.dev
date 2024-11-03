@@ -36,6 +36,14 @@
 - id: doi:10.1109/ICCV51070.2023.01724
 - id: doi:10.48550/arXiv.2305.18712
   publisher: ICLR 2024
+  buttons:
+    - type: github
+      text: Github
+      link: https://github.com/sleepyseal/TransferScore
+    - type: website
+      link: https://sleepyseal.github.io/TransferScoreWeb/
+    - type: paper
+      link: https://openreview.net/pdf?id=fszrlQ2DuP
 - id: doi:10.1109/ICCV51070.2023.01724
 - id: arXiv:2205.14467
   publisher: ICLR 2023
