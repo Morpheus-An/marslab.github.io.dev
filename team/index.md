@@ -14,6 +14,7 @@ With shared dedication, we strive to advance science and create impactful innova
 
 {% include section.html %}
 
+{% capture html %}
 {% include team-list.html role="pi" group="current" %}
 
 <br><br>
@@ -22,7 +23,7 @@ With shared dedication, we strive to advance science and create impactful innova
 {% include team-list.html role="master" group="current" %}
 {% include team-list.html role="undergrad" group="current" %}
 {% include team-list.html role="programmer" group="current" %}
-
+{% endcapture %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 We thank all MARS Lab alumni for their invaluable contributions and wish them bright futures ahead, as they continue to pursue scientific excellence and make impactful contributions on their new journeys.
