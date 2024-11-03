@@ -26,7 +26,7 @@ With shared dedication, we strive to advance science and create impactful innova
 {% include centerer.html html=html %}
 
 {% include section.html background="images/background.jpg" dark=true %}
-We thank all MARS Lab alumni for their invaluable contributions and wish them bright futures ahead, as they continue to pursue scientific excellence and make impactful contributions on their new journeys.
+We thank all MARS Lab alumni for their invaluable contributions and wish them bright futures ahead.
 
 {% include section.html %}
 # {% include icon.html icon="fa-solid fa-users" %} Alumni
