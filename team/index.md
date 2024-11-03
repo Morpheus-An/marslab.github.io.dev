@@ -12,7 +12,7 @@ nav:
 Our MARS lab is a close-knit family of **passionate researchers**, bound by kindness and camaraderie as we work together to push the scientific frontiers of AI and robotics. 
 With shared dedication, we strive to advance science and create impactful innovations that shape the future. United in purpose, we aim to build a **supportive and inspiring environment** for everyone in our team.
 
-
+{% include section.html %}
 {% capture html %}
 {% include team-list.html role="pi" group="current" %}
 
@@ -27,6 +27,7 @@ With shared dedication, we strive to advance science and create impactful innova
 {% include section.html background="images/background.jpg" dark=true %}
 We thank all MARS Lab alumni for their invaluable contributions and wish them bright futures ahead, as they continue to pursue scientific excellence and make impactful contributions on their new journeys.
 
+{% include section.html %}
 # {% include icon.html icon="fa-solid fa-users" %} Alumni
 
 ### Master of Science (Msc)
