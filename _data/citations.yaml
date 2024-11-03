@@ -105,6 +105,14 @@
   publisher: ICLR 2024
   date: '2023-01-01'
   link: https://doi.org/g8pxwd
+  buttons:
+  - type: github
+    text: Github
+    link: https://github.com/sleepyseal/TransferScore
+  - type: website
+    link: https://sleepyseal.github.io/TransferScoreWeb/
+  - type: paper
+    link: https://openreview.net/pdf?id=fszrlQ2DuP
   plugin: sources.py
   file: sources.yaml
 - id: arXiv:2205.14467
