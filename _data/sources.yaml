@@ -1,6 +1,7 @@
 - id: doi:10.1016/j.patter.2023.100703
   type: paper
-  description: The first open-source benchmark on deep learning-empowered WiFi sensing.
+  publisher: Patterns, Cell Press
+  description: The world-first open-source benchmark on deep learning-empowered WiFi sensing.
   date: 2023-03-10
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2666389923000405-gr3.jpg
   buttons:
@@ -15,7 +16,7 @@
 - id: arxiv:2305.10345
   type: paper
   publisher: NeurIPS 2023 Datasets and Benchmarks Track
-  description: The first multi-modal non-intrusive 4D human dataset.
+  description: The world-first multi-modal non-intrusive 4D human dataset (RGB, Depth, LiDAR, mmWave, WiFi).
   date: 2023-05-11
   image: https://ntu-aiot-lab.github.io/static/images/setup.png
   buttons:
