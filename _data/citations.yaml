@@ -10,11 +10,12 @@
   - Dazhuo Wang
   - Sumei Sun
   - Lihua Xie
-  publisher: Patterns
+  publisher: Patterns, Cell Press
   date: '2023-03-10'
   link: https://doi.org/gsmbtr
   type: paper
-  description: The first open-source benchmark on deep learning-empowered WiFi sensing.
+  description: The world-first open-source benchmark on deep learning-empowered WiFi
+    sensing.
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2666389923000405-gr3.jpg
   buttons:
   - type: github
@@ -44,7 +45,8 @@
   date: '2023-05-11'
   link: https://arxiv.org/abs/2305.10345
   type: paper
-  description: The first multi-modal non-intrusive 4D human dataset.
+  description: The world-first multi-modal non-intrusive 4D human dataset (RGB, Depth,
+    LiDAR, mmWave, WiFi).
   image: https://ntu-aiot-lab.github.io/static/images/setup.png
   buttons:
   - type: paper
