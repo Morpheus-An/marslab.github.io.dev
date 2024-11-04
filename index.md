@@ -11,7 +11,7 @@ MARS Lab studies **Physical AI**, focusing on how AI can enable physical systems
 
 {% capture text %}
 
-Our research has been featured in top-tier publications across AI (NeurIPS, ICLR, CVPR, TPAMI, IJCV), robotics (ICRA, IROS), and interdisciplinary fields (Cell Patterns, CACIE).
+Our research has been featured in top-tier publications across AI (NeurIPS, ICLR, CVPR, ICCV, ACL, TPAMI, IJCV), robotics (ICRA, IROS), and interdisciplinary fields (Cell Patterns, BIB, CACIE).
 
 {%
   include button.html
