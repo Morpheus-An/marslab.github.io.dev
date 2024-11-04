@@ -26,7 +26,7 @@ Our research has been featured in top-tier publications across AI (NeurIPS, ICLR
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/homepage-research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ Our MARS Lab embodies the open-source spirit, driving scientific and technologic
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/homepage-project.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ Our MARS Lab is a close-knit family of passionate researchers dedicated to advan
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/homepage-team.jpg"
   link="team"
   title="Our Team"
   text=text
