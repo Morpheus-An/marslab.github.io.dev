@@ -105,6 +105,7 @@
   publisher: ICLR 2024
   date: '2023-01-01'
   link: https://doi.org/g8pxwd
+  image: images/papers/transfer-score.png
   buttons:
   - type: github
     text: Github
