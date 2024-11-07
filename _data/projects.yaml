@@ -1,7 +1,7 @@
 - title: SenseFi Library
   subtitle: Library and benchmark
   group: featured
-  image: images/photo.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666389923000405-gr3.jpg
   link: https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark
   description: The world-first open-source benchmark on deep learning-empowered WiFi sensing.
   repo: https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark
@@ -13,7 +13,7 @@
 - title: MM-Fi Dataset
   subtitle: Multimodal 4D Human Dataset
   group: featured
-  image: images/photo.jpg
+  image: images/gif/mm-fi-dataset.gif
   link: https://ntu-aiot-lab.github.io/mm-fi
   description: The world-first multi-modal non-intrusive 4D human dataset (RGB, Depth, LiDAR, mmWave, WiFi).
   repo: https://github.com/ybhbingo/MMFi_dataset
@@ -23,7 +23,7 @@
 
 - title: Transfer Score
   subtitle: Benchmarking UDA
-  image: images/photo.jpg
+  image: images/gif/metafi.gif
   link: https://sleepyseal.github.io/TransferScoreWeb/
   description: Unsupervised evaluation and model selection for unsupervised domain adaptation (UDA).
   repo: https://sleepyseal.github.io/TransferScoreWeb/
