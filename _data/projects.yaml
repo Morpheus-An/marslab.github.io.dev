@@ -1,47 +1,32 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: SenseFi Library
+  subtitle: Library and benchmark
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark
+  description: The world-first open-source benchmark on deep learning-empowered WiFi sensing.
+  repo: https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark
   tags:
-    - resource
+    - library
+    - benchmark
+    - wifi-sensing
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: MM-Fi Dataset
+  subtitle: Multimodal 4D Human Dataset
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://ntu-aiot-lab.github.io/mm-fi
+  description: The world-first multi-modal non-intrusive 4D human dataset (RGB, Depth, LiDAR, mmWave, WiFi).
+  repo: https://github.com/ybhbingo/MMFi_dataset
   tags:
-    - resource
+    - dataset
+    - human-sensing
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Transfer Score
+  subtitle: Benchmarking UDA
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://sleepyseal.github.io/TransferScoreWeb/
+  description: Unsupervised evaluation and model selection for unsupervised domain adaptation (UDA).
+  repo: https://sleepyseal.github.io/TransferScoreWeb/
   tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - library
+    - UDA
