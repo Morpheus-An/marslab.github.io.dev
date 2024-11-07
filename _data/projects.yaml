@@ -23,7 +23,7 @@
 
 - title: Transfer Score
   subtitle: Benchmarking UDA
-  image: images/gif/metafi.gif
+  image: images/papers/transfer-score.png
   link: https://sleepyseal.github.io/TransferScoreWeb/
   description: Unsupervised evaluation and model selection for unsupervised domain adaptation (UDA).
   repo: https://sleepyseal.github.io/TransferScoreWeb/
