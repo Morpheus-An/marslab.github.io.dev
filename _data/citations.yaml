@@ -137,3 +137,25 @@
     link: https://github.com/xyupeng/BETA
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/JIOT.2023.3262940
+  title: 'MetaFi++: WiFi-Enabled Transformer-Based Human Pose Estimation for Metaverse
+    Avatar Simulation'
+  authors:
+  - Yunjiao Zhou
+  - He Huang
+  - Shenghai Yuan
+  - Han Zou
+  - Lihua Xie
+  - Jianfei Yang
+  publisher: IEEE Internet of Things Journal (IoT-J)
+  date: '2023-08-15'
+  link: https://doi.org/g8qc4m
+  image: images/gif/metafi.gif
+  buttons:
+  - type: paper
+    link: https://ieeexplore.ieee.org/document/10086600
+  - type: github
+    text: Github
+    link: https://github.com/pridy999/metafi_pose_estimation
+  plugin: sources.py
+  file: sources.yaml
