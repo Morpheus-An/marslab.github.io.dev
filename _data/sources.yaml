@@ -52,3 +52,12 @@
     - type: github
       text: Github
       link: https://github.com/xyupeng/BETA
+- id: doi:10.1109/JIOT.2023.3262940
+  publisher: IEEE Internet of Things Journal (IoT-J)
+  image: images/gif/metafi.gif
+  buttons:
+    - type: paper
+      link: https://ieeexplore.ieee.org/document/10086600
+    - type: github
+      text: Github
+      link: https://github.com/pridy999/metafi_pose_estimation
