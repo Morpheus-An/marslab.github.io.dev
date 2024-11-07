@@ -9,10 +9,6 @@ nav:
 
 Our lab embodies the open-source spirit, driving scientific and technological advancements through innovative AI algorithms and cutting-edge robotic and AIoT system solutions, with real-world applications spanning smart cities, smart home, healthcare, and personalized assistive technologies.
 
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
 {% include section.html %}
 
 ## Featured
