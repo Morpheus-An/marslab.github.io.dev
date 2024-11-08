@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Our lab embodies the open-source spirit, driving scientific and technological advancements through innovative AI algorithms and cutting-edge robotic and AIoT system solutions, with real-world applications spanning smart cities, smart home, healthcare, and personalized assistive technologies.
+Our lab embodies the **open-source spirit**, driving cutting-edge robotics and AIoT systems through **innovative AI algorithms, datasets, and systems**, with real-world applications spanning smart cities, smart homes, healthcare, and personalized assistive technologies.
 
 {% include section.html %}
 
