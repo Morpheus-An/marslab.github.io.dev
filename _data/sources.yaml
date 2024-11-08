@@ -54,6 +54,7 @@
     - test-time adaptation
 - id: doi:10.48550/arXiv.2305.18712
   publisher: ICLR 2024
+  date: 2024-01-01
   image: images/papers/transfer-score.png
   buttons:
     - type: github
