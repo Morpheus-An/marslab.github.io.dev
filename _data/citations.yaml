@@ -18,11 +18,11 @@
     sensing.
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2666389923000405-gr3.jpg
   buttons:
+  - type: paper
+    link: https://www.cell.com/patterns/fulltext/S2666-3899(23)00040-5
   - type: github
     text: Github
     link: https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark
-  - type: journal
-    link: https://www.cell.com/patterns/fulltext/S2666-3899(23)00040-5
   tags:
   - wifi sensing
   - benchmark
@@ -55,6 +55,7 @@
     text: Github
     link: https://github.com/ybhbingo/MMFi_dataset
   - type: website
+    text: Website
     link: https://ntu-aiot-lab.github.io/mm-fi
   tags:
   - multimodal dataset
@@ -78,6 +79,12 @@
   publisher: International Journal of Computer Vision
   date: '2023-11-08'
   link: https://doi.org/g8pwz3
+  type: paper
+  image: images/papers/yuecong-ijcv-23.png
+  buttons:
+  - type: paper
+    text: Arxiv
+    link: https://arxiv.org/pdf/2202.09545
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICCV51070.2023.01724
@@ -92,6 +99,17 @@
   publisher: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
   date: '2023-10-01'
   link: https://doi.org/g8pxwc
+  type: paper
+  image: images/papers/haozhi-mmctta-iccv23.png
+  buttons:
+  - type: paper
+    link: https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Multi-Modal_Continual_Test-Time_Adaptation_for_3D_Semantic_Segmentation_ICCV_2023_paper.pdf
+  - type: website
+    text: Website
+    link: https://sites.google.com/view/mmcotta
+  tags:
+  - multimodal learning
+  - test-time adaptation
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2305.18712
@@ -111,9 +129,14 @@
     text: Github
     link: https://github.com/sleepyseal/TransferScore
   - type: website
+    text: Website
     link: https://sleepyseal.github.io/TransferScoreWeb/
   - type: paper
     link: https://openreview.net/pdf?id=fszrlQ2DuP
+  tags:
+  - domain adaptation
+  - unsupervised evaluation
+  - model selection
   plugin: sources.py
   file: sources.yaml
 - id: arXiv:2205.14467
@@ -128,14 +151,18 @@
   - Lihua Xie
   - Yang You
   publisher: ICLR 2023
-  date: '2022-05-31'
+  date: '2023-01-01'
   link: https://arxiv.org/abs/2205.14467
+  image: images/papers/jianfei-beta-iclr23.png
   buttons:
   - type: paper
     link: https://arxiv.org/pdf/2205.14467
   - type: github
     text: Github
     link: https://github.com/xyupeng/BETA
+  tags:
+  - domain adaptation
+  - trustworthy AI
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JIOT.2023.3262940
@@ -158,5 +185,88 @@
   - type: github
     text: Github
     link: https://github.com/pridy999/metafi_pose_estimation
+  tags:
+  - human pose estimation
+  - wifi sensing
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICRA57147.2024.10610316
+  title: 'MoPA: Multi-Modal Prior Aided Domain Adaptation for 3D Semantic Segmentation'
+  authors:
+  - Haozhi Cao
+  - Yuecong Xu
+  - Jianfei Yang
+  - Pengyu Yin
+  - Shenghai Yuan
+  - Lihua Xie
+  publisher: 2024 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2024-05-13'
+  link: https://doi.org/g8qdjg
+  image: images/papers/haozhi-mopa-icra24.gif
+  buttons:
+  - type: paper
+    text: Arxiv
+    link: https://arxiv.org/pdf/2309.11839
+  - type: github
+    text: Github
+    link: https://github.com/AronCao49/MoPA
+  tags:
+  - multimodal learning
+  - domain adaptation
+  - 3D semantic segmentation
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2403.06461
+  title: Reliable Spatial-Temporal Voxels For Multi-Modal Test-Time Adaptation
+  authors:
+  - Haozhi Cao
+  - Yuecong Xu
+  - Jianfei Yang
+  - Pengyu Yin
+  - Xingyu Ji
+  - Shenghai Yuan
+  - Lihua Xie
+  publisher: European Conference on Computer Vision (ECCV), 2024
+  date: '2024-07-26'
+  link: https://arxiv.org/abs/2403.06461
+  type: paper
+  image: images/papers/haozhi-latte-eccv24.png
+  buttons:
+  - type: paper
+    link: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04076.pdf
+  - type: github
+    text: Github
+    link: https://github.com/AronCao49/Latte
+  - type: website
+    text: Website
+    link: https://sites.google.com/view/eccv24-latte
+  tags:
+  - Multimodal learning
+  - Test-time adaptation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3679010
+  title: 'Video Unsupervised Domain Adaptation with Deep Learning: A Comprehensive
+    Survey'
+  authors:
+  - Yuecong Xu
+  - Haozhi Cao
+  - Lihua Xie
+  - Xiao-li Li
+  - Zhenghua Chen
+  - Jianfei Yang
+  publisher: ACM Computing Surveys
+  date: '2024-10-01'
+  link: https://doi.org/g8pwzk
+  image: images/papers/yuecong-vuda-survey.png
+  buttons:
+  - type: paper
+    link: https://dl.acm.org/doi/10.1145/3679010
+  - type: github
+    text: Github
+    link: https://github.com/xuyu0010/awesome-video-domain-adaptation
+  tags:
+  - video domain adaptation
+  - survey
   plugin: sources.py
   file: sources.yaml
