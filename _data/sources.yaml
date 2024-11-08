@@ -9,7 +9,7 @@
       link: https://www.cell.com/patterns/fulltext/S2666-3899(23)00040-5
     - type: github
       text: Github
-      link: https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark
+      link: WiFi-CSI-Sensing-Benchmark
   tags:
     - wifi sensing
     - benchmark
@@ -24,7 +24,7 @@
       link: https://arxiv.org/pdf/2305.10345
     - type: github
       text: Github
-      link: https://github.com/ybhbingo/MMFi_dataset
+      link: ybhbingo/MMFi_dataset
     - type: website
       text: Website
       link: https://ntu-aiot-lab.github.io/mm-fi
@@ -59,7 +59,7 @@
   buttons:
     - type: github
       text: Github
-      link: https://github.com/sleepyseal/TransferScore
+      link: sleepyseal/TransferScore
     - type: website
       text: Website
       link: https://sleepyseal.github.io/TransferScoreWeb/
@@ -78,7 +78,7 @@
       link: https://arxiv.org/pdf/2205.14467
     - type: github
       text: Github
-      link: https://github.com/xyupeng/BETA
+      link: xyupeng/BETA
   tags:
     - domain adaptation
     - trustworthy AI
@@ -90,7 +90,7 @@
       link: https://ieeexplore.ieee.org/document/10086600
     - type: github
       text: Github
-      link: https://github.com/pridy999/metafi_pose_estimation
+      link: pridy999/metafi_pose_estimation
   tags:
     - human pose estimation
     - wifi sensing
@@ -102,7 +102,7 @@
       link: https://arxiv.org/pdf/2309.11839
     - type: github
       text: Github
-      link: https://github.com/AronCao49/MoPA
+      link: AronCao49/MoPA
   tags:
     - multimodal learning
     - domain adaptation
@@ -116,7 +116,7 @@
       link: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04076.pdf
     - type: github
       text: Github
-      link: https://github.com/AronCao49/Latte
+      link: AronCao49/Latte
     - type: website
       text: Website
       link: https://sites.google.com/view/eccv24-latte
@@ -130,7 +130,7 @@
       link: https://dl.acm.org/doi/10.1145/3679010
     - type: github
       text: Github
-      link: https://github.com/xuyu0010/awesome-video-domain-adaptation
+      link: xuyu0010/awesome-video-domain-adaptation
   tags:
     - video domain adaptation
     - survey
