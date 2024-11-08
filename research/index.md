@@ -13,8 +13,7 @@ Our pioneering research has been recognized in top-tier publications across **AI
 
 ## Highlighted
 
-{% include citation.html lookup="MM-Fi" style="rich" %}
-{% include citation.html lookup="SenseFi" style="rich" %}
+{% include citation.html lookup="Can We Evaluate" style="rich" %}
 
 {% include section.html %}
 
