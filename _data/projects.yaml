@@ -4,7 +4,6 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2666389923000405-gr3.jpg
   link: https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark
   description: The world-first open-source benchmark on deep learning-empowered WiFi sensing.
-  repo: https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark
   tags:
     - library
     - benchmark
@@ -16,7 +15,6 @@
   image: images/gif/mm-fi-dataset.gif
   link: https://ntu-aiot-lab.github.io/mm-fi
   description: The world-first multi-modal non-intrusive 4D human dataset (RGB, Depth, LiDAR, mmWave, WiFi).
-  repo: https://github.com/ybhbingo/MMFi_dataset
   tags:
     - dataset
     - human-sensing
@@ -25,9 +23,8 @@
   subtitle: A New Dataset for Human Action Recognition in the Dark
   group: featured
   image: images/papers/ARID-datasets.png
-  link: http://arxiv.org/abs/2006.03876
+  link: https://xuyu0010.github.io/arid
   description: Dataset for CVPR UG2+ Challenge (2021-2022)
-  repo: https://xuyu0010.github.io/arid
   tags:
     - action recognition
     - low-illumination
