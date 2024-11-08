@@ -9,7 +9,7 @@
       link: https://www.cell.com/patterns/fulltext/S2666-3899(23)00040-5
     - type: github
       text: Github
-      link: WiFi-CSI-Sensing-Benchmark
+      link: xyanchen/WiFi-CSI-Sensing-Benchmark
   tags:
     - wifi sensing
     - benchmark
