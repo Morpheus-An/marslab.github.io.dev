@@ -12,7 +12,7 @@ nav:
 
 {% include section.html %}
 
-## Jianfei Yang's Selected Honors and Awards
+## Prof. Jianfei Yang's Selected Honors and Awards
 
 ### Honors
 
