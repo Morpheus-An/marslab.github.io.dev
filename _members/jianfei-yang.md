@@ -1,5 +1,5 @@
 ---
-title: Jianfei yang
+title: Jianfei Yang
 search:
   - J. Yang
 role: pi
