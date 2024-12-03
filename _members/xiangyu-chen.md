@@ -9,7 +9,7 @@ image: images/members/xiangyu-chen.png
 email: cxy980212@gmail.com
 ---
  
-Xiangyu is a full-time RA and will join MARS lab as a PhD student in Aug 2025. He is currently an AI scientist in SAP, and he was previously mentored by Prof. Yang for his undergraduate FYP project at NTU. His research interests include robotic path planning and embodied AI.
+Xiangyu is a full-time RA and will join MARS lab as a PhD student in Aug 2025. His research interests include robotic path planning and embodied AI.
 
 ### Education
 - PhD student, 2025 -
