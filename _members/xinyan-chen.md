@@ -9,7 +9,7 @@ image: images/members/xinyan-chen.jpeg
 email: chenxinyan0914@gmail.com
 ---
  
-Xinyan is a PhD student enrolled in the 2025 Spring Fall. His research interests include smart sensing and multimodal AI.
+Xinyan is a PhD student enrolled in the 2025 Spring Fall. He is currently an AI scientist in SAP, and he was previously mentored by Prof. Yang for his undergraduate FYP project at NTU. His research interests include smart sensing and multimodal AI.
 
 ### Education
 - PhD student, 2024-
