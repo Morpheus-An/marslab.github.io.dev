@@ -3,7 +3,7 @@ title: Han, Shijia
 search:
   - S. Han
 role: master
-affiliation: NTU (MSc), UoO (BSc)
+affiliation: UoO (BSc), NTU (MSc)
 group: current
 image: images/members/shijia-han.jpg
 email: hanshijia1@gmail.com
