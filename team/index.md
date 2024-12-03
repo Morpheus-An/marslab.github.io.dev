@@ -7,7 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %} Martian Members
 
-Our MARS lab is a close-knit family of **passionate researchers**, bound by kindness and camaraderie as we work together to push the scientific frontiers of AI and robotics. 
+Our MARS lab is a close-knit family of **passionate researchers**, bound by kindness and camaraderie as we work together to push the scientific frontiers of AI and robotics. Our members have **diverse backgrounds**, graduating from universities in China, Singapore, USA, Australia, New Zealand, etc.
+
 With shared dedication, we strive to advance science and create impactful innovations that shape the future. United in purpose, we aim to build a **supportive and inspiring environment** for everyone in our team.
 
 {% include section.html %}
