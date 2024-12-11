@@ -49,7 +49,7 @@ Our MARS Lab embodies the open-source spirit, driving scientific and technologic
 
 {%
   include feature.html
-  image="images/homepage-project.jpg"
+  image="images/gif/mm-fi-dataset.gif"
   link="projects"
   title="Our Projects"
   flip=true
