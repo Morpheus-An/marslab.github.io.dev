@@ -9,7 +9,7 @@ image: images/members/chuhao-zhou.jpg
 email: zhouchuhao99@gmail.com
 ---
  
-Chuhao Zhou is currently a PhD student at Nanyang Technological University supervised by [Prof.Jianfei Yang](https://marsyang.site/). His research interests include Physical AI, multimodal LLM, and robotics.
+Chuhao Zhou is currently a PhD student at Nanyang Technological University supervised by [Prof.Jianfei Yang](https://marsyang.site/). His research interests include Physical AI, multimodal LLM, and robotics. Test, Test, Test.
 
 ### Education
 - PhD student, 2024-
