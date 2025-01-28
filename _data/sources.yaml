@@ -135,6 +135,8 @@
     - video domain adaptation
     - survey
 - id: arXiv:2410.10167
+  publisher: ICLR 2025
+  date: 2025-01-22
   image: images/papers/xinyan-xfi-iclr25.png
   buttons:
     - type: paper
