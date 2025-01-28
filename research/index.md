@@ -13,7 +13,7 @@ Our pioneering research has been recognized in top-tier publications across **AI
 
 ## Highlighted
 
-{% include citation.html lookup="Can We Evaluate" style="rich" %}
+{% include citation.html lookup="'X-Fi:" style="rich" %}
 
 {% include section.html %}
 
