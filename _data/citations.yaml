@@ -275,9 +275,9 @@
   authors:
   - Xinyan Chen
   - Jianfei Yang
-  publisher: ICLR 2025
-  date: '2025-01-22'
-  link: https://doi.org/10.48550/arXiv.2410.10167
+  publisher: arXiv
+  date: '2024-10-21'
+  link: https://arxiv.org/abs/2410.10167
   image: images/papers/xinyan-xfi-iclr25.png
   buttons:
   - type: paper
