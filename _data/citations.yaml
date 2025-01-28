@@ -270,3 +270,26 @@
   - survey
   plugin: sources.py
   file: sources.yaml
+- id: arXiv:2410.10167
+  title: 'X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing'
+  authors:
+  - Xinyan Chen
+  - Jianfei Yang
+  publisher: ICLR 2025
+  date: '2025-01-22'
+  link: https://doi.org/10.48550/arXiv.2410.10167
+  image: images/papers/xinyan-xfi-iclr25.png
+  buttons:
+  - type: paper
+    link: https://doi.org/10.48550/arXiv.2410.10167
+  - type: github
+    text: Github
+    link: xyanchen/X-Fi
+  - type: website
+    text: Website
+    link: https://xyanchen.github.io/X-Fi
+  tags:
+  - Multimodal learning
+  - Foundation model
+  plugin: sources.py
+  file: sources.yaml

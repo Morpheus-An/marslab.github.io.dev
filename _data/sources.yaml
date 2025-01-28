@@ -134,3 +134,17 @@
   tags:
     - video domain adaptation
     - survey
+- id: arXiv:2410.10167
+  image: images/papers/xinyan-xfi-iclr25.png
+  buttons:
+    - type: paper
+      link: https://doi.org/10.48550/arXiv.2410.10167
+    - type: github
+      text: Github
+      link: xyanchen/X-Fi
+    - type: website
+      text: Website
+      link: https://xyanchen.github.io/X-Fi
+  tags:
+    - Multimodal learning
+    - Foundation model 
