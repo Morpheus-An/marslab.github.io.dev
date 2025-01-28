@@ -34,9 +34,11 @@ Please add your paper to the `_data/citations.yaml` file. The format is as follo
   plugin: sources.py
   file: sources.yaml
 ```
-Also, add your paper to the `_data/sources.yaml` file. The format is as follows:
+Also, add your paper to the `_data/sources.yaml` file. The data should be aligned with which written in `_data/citations.yaml`.The format is as follows:
 ```yaml
 - id: #doi#
+  publisher: #Conference/Journal#
+  date: #YYYY-MM-DD#
   image: #Upload the cover image to images/papers/#
   buttons:
   - type: paper
