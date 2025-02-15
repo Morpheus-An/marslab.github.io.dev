@@ -12,13 +12,7 @@ google-scholar: V25k08UAAAAJ
 linkedin: jianfei-yang-55560386
 ---
 
-Dr. Yang is an Assistant Professor at Nanyang Technological University. His research interests include Physical AI, multimodal LLM, and robotics.
-
-### Education
-- Ph.D. in AI, 2016-2020
-  - Nanyang Technological University (NTU), Singapore
-- Bachelor of Engineering, 2012-2016
-  - Sun Yat-Sen University
+Dr. Yang is an Assistant Professor at Nanyang Technological University. He is recognized as the World’s Top 2% Scientists (2022-present) compiled by Stanford University, and the Forbes Asia 30 Under 30 (Class 2024). His research interests include Physical AI, multimodal LLM, and robotics. 
  
 ### Experience
 - Assistant Professor, 2024-present
@@ -31,6 +25,16 @@ Dr. Yang is an Assistant Professor at Nanyang Technological University. His rese
   - Nanyang Technological University (NTU), Singapore
 - Senior Research Engineer, 2021
   - University of California, Berkeley
+ 
+### Education
+- Ph.D. in AI, 2016-2020
+  - Nanyang Technological University (NTU), Singapore
+- Bachelor of Engineering, 2012-2016
+  - Sun Yat-Sen University
+ 
+### Editorial Services
+- Associate Editor, IEEE Transactions on Neural Networks and Learning Systems, 2024-present
+- Associate Editor, Neurocomputing (Elsevier), 2024-present
 
 ### First-Author Publications
 [1] **Can We Evaluate Domain Adaptation Models Without Target-Domain Labels?**   
