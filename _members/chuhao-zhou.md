@@ -21,6 +21,7 @@ Chuhao Zhou is currently a PhD student at Nanyang Technological University super
 
 ### Award
 - National Scholarship (Top 1%)
+- NTU Research Scholarship
 
 ### Experience
 - Research Intern, 2024
