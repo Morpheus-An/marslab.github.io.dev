@@ -217,17 +217,18 @@
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2403.06461
-  title: Reliable Spatial-Temporal Voxels For Multi-Modal Test-Time Adaptation
+  title: 'Latte++: Spatial-Temporal Voxel-based Test-Time Adaptation for Multi-Modal
+    Segmentation'
   authors:
   - Haozhi Cao
   - Yuecong Xu
-  - Jianfei Yang
   - Pengyu Yin
   - Xingyu Ji
   - Shenghai Yuan
+  - Jianfei Yang
   - Lihua Xie
   publisher: European Conference on Computer Vision (ECCV), 2024
-  date: '2024-07-26'
+  date: '2025-02-27'
   link: https://arxiv.org/abs/2403.06461
   type: paper
   image: images/papers/haozhi-latte-eccv24.png
