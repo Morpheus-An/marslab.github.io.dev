@@ -9,6 +9,8 @@ image: images/members/jiang-chenxi.jpg
 email: CHENXI003@e.ntu.edu.sg
 ---
 
+Chenxi Jiang is a Master of Engineering student (by research) enrolled in the 2024 August Admission. Her research focuses on embodied task planning based on LLM and VLM.
+
 ### Education
 - Master of Engineering, 2024-present
   - Nanyang Technological University (NTU), Singapore
@@ -17,3 +19,4 @@ email: CHENXI003@e.ntu.edu.sg
 
 ### Award
 - BUAA Excellence Scholarship
+- NTU Research Scholarship
