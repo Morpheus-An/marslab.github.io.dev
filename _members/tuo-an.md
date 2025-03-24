@@ -2,7 +2,7 @@
 title: Tuo An 
 search:
 role: phd
-affiliation: Nanyang Technological University
+affiliation: NJU (BEng)
 group: current
 image: images/members/tuo-an.jpg
 email: 1482414488@qq.com
