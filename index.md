@@ -7,6 +7,17 @@ MARS Lab studies **Physical AI**, focusing on how AI can enable physical systems
 
 {% include section.html %}
 
+## News
+- Feb 2025: (funding) Our project is supported by **Microsoft Accelerating Foundation Models Research** ($50K GPU).
+- Feb 2025: (paper) Our paper (Feedback Neural Network) is selected as an **ICLR oral paper (top 1.8%)**.
+- Jan 2025: (paper) Two papers (on X-Fi and Feedback Neural Network) are accepted by **ICLR-25**.
+- Jan 2025: (paper) One paper on point registration is accepted by **ICRA-25**. Congrats Geng Li!
+- Jan 2025: (project) Our lab participates in **Meta Project Aria**!
+- Sep 2024: (award) The 1st PhD student, Zhou Chuhao, won the **first place** at ECCV-24 Data Distillation Challenge. Congratulations!
+- Sep 2024: (kick-off) Prof. Jianfei Yang launched **MARS Lab** at the Robotics Research Center, NTU.
+
+{% include section.html %}
+
 ## Highlights
 
 {% capture text %}
