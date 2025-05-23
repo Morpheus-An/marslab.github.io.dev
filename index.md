@@ -22,7 +22,7 @@ MARS Lab studies **Physical AI**, focusing on how AI can enable physical systems
 
 {% capture text %}
 
-Our research has been featured in top-tier publications across AI (NeurIPS, ICLR, CVPR, ICCV, ACL, TPAMI, IJCV), robotics (ICRA, IROS), and interdisciplinary fields (Cell Patterns, BIB, CACIE).
+At MARS Lab, we study all aspects of Physical AI, ranging from multimodal perception and robotic manipulation to embodied locomotion and AIoT integration, enabling intelligent machines to perceive, act, and adapt seamlessly in the physical world.
 
 {%
   include button.html
@@ -39,13 +39,13 @@ Our research has been featured in top-tier publications across AI (NeurIPS, ICLR
   include feature.html
   image="images/homepage-research.jpg"
   link="research"
-  title="Our Research"
+  title="Physical AI Research"
   text=text
 %}
 
 {% capture text %}
 
-Our MARS Lab embodies the open-source spirit, driving scientific and technological advancements from innovative AI algorithms to cutting-edge robotic and AIoT system solutions.
+Our MARS Lab embodies the open-source spirit, accelerating scientific progress through impactful libraries such as SenseFi and MM-Fi, which support multimodal foundation models. We develop AI algorithms and deploy them in real-world robotic and AIoT systems. Our research is widely recognized, with publications in top venues across AI (NeurIPS, ICLR, CVPR, ICCV, ACL, TPAMI, IJCV), robotics (ICRA, IROS), and interdisciplinary science (Cell Patterns, Briefings in Bioinformatics, CACIE).
 
 {%
   include button.html
@@ -62,7 +62,7 @@ Our MARS Lab embodies the open-source spirit, driving scientific and technologic
   include feature.html
   image="images/homepage-project.jpg"
   link="projects"
-  title="Our Projects"
+  title="Research Achievements"
   flip=true
   style="bare"
   text=text
@@ -70,7 +70,7 @@ Our MARS Lab embodies the open-source spirit, driving scientific and technologic
 
 {% capture text %}
 
-Our MARS Lab is a close-knit family of passionate researchers dedicated to advancing AI and robotics, fostering an inspiring and supportive environment for everyone as we shape the future through impactful innovations.
+MARS Lab is a diverse and close-knit team of researchers from various academic and cultural backgrounds. Equipped with advanced robotic platforms, including multiple robotic arms and the Unitree G1 humanoid. We work together in a collaborative, supportive environment to push the boundaries of AI and robotics through shared curiosity and innovation.
 
 {%
   include button.html
