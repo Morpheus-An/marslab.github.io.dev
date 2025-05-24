@@ -294,3 +294,28 @@
   - Foundation model
   plugin: sources.py
   file: sources.yaml
+- id: arXiv:2505.10872
+  title: 'REI-Bench: Can Embodied Agents Understand Vague Human Instructions in Task
+    Planning?'
+  authors:
+  - Chenxi Jiang
+  - Chuhao Zhou
+  - Jianfei Yang
+  publisher: arXiv 2025
+  date: '2025-05-19'
+  link: https://arxiv.org/abs/2505.10872
+  image: images/papers/chenxi-reibench-arxiv25.png
+  buttons:
+  - type: paper
+    link: https://doi.org/10.48550/arXiv.2505.10872
+  - type: github
+    text: Github
+    link: https://arxiv.org/abs/2505.10872
+  - type: website
+    text: Website
+    link: https://arxiv.org/abs/2505.10872
+  tags:
+  - Tag1
+  - Tag2
+  plugin: sources.py
+  file: sources.yaml
