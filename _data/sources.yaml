@@ -166,5 +166,6 @@
       text: Website
       link: https://arxiv.org/abs/2505.10872
   tags:
-    - Tag1
-    - Tag2
+    - Robot task planning
+    - Vagueness
+    - LLMs
