@@ -46,5 +46,6 @@
   description: Model and explore how vague human instructions affect embodied task planning.
   repo: https://arxiv.org/abs/2505.10872
   tags:
-    - Vague Human Instructions
-    - Embodied Task Planning
+    - Robot task planning
+    - Vagueness
+    - LLMs
