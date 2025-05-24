@@ -13,7 +13,8 @@ Our pioneering research has been recognized in top-tier publications across **AI
 
 ## Highlighted
 
-{% include citation.html lookup="X-Fi" style="rich" %}
+<!-- {% include citation.html lookup="X-Fi" style="rich" %}-->
+{% include list.html data="citations" component="citation" style="rich" filters="group: highlighted" %}
 
 {% include section.html %}
 
