@@ -26,7 +26,7 @@ Xinyan is a PhD student enrolled in the 2025 Spring. He is currently an AI scien
 - Intern, HUAWEI, 2021-2022
 
 ### Publications
-- **<a href="https://xyanchen.github.io/X-Fi/" target="_blank">X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing</a>**
+- **<a href="https://xyanchen.github.io/X-Fi/" target="_blank">X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing</a>**    
 *ICLR 2025*, <span style="color: red;">The 1st foundation model achieving modality-invariant multimodal human sensing</span>
 - **<a href="https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark" target="_blank">SenseFi: A library and benchmark on deep-learning-empowered WiFi human sensing</a>**    
 *Patterns (Cell Press)*, <span style="color: red;">The 1st open-source benchmark on WiFi sensing</span>
