@@ -1,5 +1,5 @@
 
-# Testing Homepage of NTU MARS Lab
+# Homepage of NTU MARS Lab
 
 Visit **[marslab.tech](http://marslab.tech)** 🚀
 
