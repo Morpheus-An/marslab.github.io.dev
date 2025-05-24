@@ -149,4 +149,20 @@
       link: https://xyanchen.github.io/X-Fi
   tags:
     - Multimodal learning
-    - Foundation model 
+    - Foundation model
+- id: arXiv:2505.10872
+  publisher: arXiv 2025
+  date: 2025-05-19
+  image: images/papers/chenxi-reibench-arxiv25.png
+  buttons:
+    - type: paper
+      link: https://doi.org/10.48550/arXiv.2505.10872
+    - type: github
+      text: Github
+      link: https://arxiv.org/abs/2505.10872
+    - type: website
+      text: Website
+      link: https://arxiv.org/abs/2505.10872
+  tags:
+    - Tag1
+    - Tag2
