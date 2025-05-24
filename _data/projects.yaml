@@ -40,7 +40,6 @@
     - UDA
 - title: REI-Bench
   subtitle: Benchmarking Vague Human Instructions in Task Planning
-  group: featured
   image: images/papers/chenxi-reibench-arxiv25.png
   link: https://arxiv.org/abs/2505.10872
   description: Model and explore how vague human instructions affect embodied task planning.
