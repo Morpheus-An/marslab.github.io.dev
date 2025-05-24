@@ -280,6 +280,7 @@
   date: '2025-01-22'
   link: https://arxiv.org/abs/2410.10167
   image: images/papers/xinyan-xfi-iclr25.png
+  group: highlighted
   buttons:
   - type: paper
     link: https://doi.org/10.48550/arXiv.2410.10167
@@ -305,6 +306,7 @@
   date: '2025-05-19'
   link: https://arxiv.org/abs/2505.10872
   image: images/papers/chenxi-reibench-arxiv25.png
+  group: highlighted
   buttons:
   - type: paper
     link: https://doi.org/10.48550/arXiv.2505.10872
