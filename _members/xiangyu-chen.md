@@ -3,7 +3,7 @@ title: Xiangyu Chen
 search:
   - X. Chen
 role: phd
-affiliation: SDU (MEng)
+affiliation: Robotics
 group: current
 image: images/members/xiangyu-chen.png
 email: cxy980212@gmail.com

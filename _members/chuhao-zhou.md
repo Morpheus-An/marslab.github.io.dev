@@ -3,7 +3,7 @@ title: Chuhao Zhou
 search:
   - C. Zhou
 role: phd
-affiliation: HIT-SZ (BEng, MEng)
+affiliation: Multimodal LLM
 group: current
 image: images/members/chuhao-zhou.jpg
 email: zhouchuhao99@gmail.com
