@@ -3,7 +3,7 @@ title: Han, Shijia
 search:
   - S. Han
 role: master
-affiliation: UoO (BSc), NTU (MSc)
+affiliation: 3D Human Modelling
 group: current
 image: images/members/shijia-han.jpg
 email: hanshijia1@gmail.com
