@@ -1,1 +1,0 @@
-{"version":3,"sourceRoot":"","sources":["icon.scss"],"names":[],"mappings":"AAEA;AAAA;AAAA;EAGE","sourcesContent":["@import \"variables\";\n\n.fas,\n.far,\n.fab {\n  display: inline;\n}\n"],"file":"icon.css"}
