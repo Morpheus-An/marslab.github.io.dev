@@ -14,7 +14,6 @@ With shared dedication, we strive to advance science and create impactful innova
 {% include section.html %}
 {% capture html %}
 {% include team-list.html role="pi" group="current" %}
-
 <br><br>
 {% include team-list.html role="postdoc" group="current" %}
 <br>
