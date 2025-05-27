@@ -31,20 +31,16 @@ Dr. Ma is a Postdoctoral Research Fellow at Nanyang Technological University, wo
 
 ### First-Author Publications
 [1] **Advances in space robots for on-orbit servicing: a comprehensive review.**   
-**Boyu Ma**, Zainan Jiang, Yang Liu, and Zongwu Xie.   
-*Advanced Intelligent Systems, 2023, 5(8): 2200397* <span style="color:red"> Both the Wiley Top-Cited and Top-Viewed Awards.</span>
+**Boyu Ma**, Zainan Jiang, Yang Liu, and Zongwu Xie. *Advanced Intelligent Systems, 2023, 5(8): 2200397.* <span style="color:red"> Both the Wiley Top-Cited and Top-Viewed Awards.</span>
 
 [2] **Actual shape-based obstacle avoidance synthesized by velocity–acceleration minimization for redundant manipulators: an optimization perspective.**
-**Boyu Ma**, Zongwu Xie, Bowen Zhan, Zainan Jiang, Yang Liu, and Hong Liu. 
-*IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2023, 53(10): 6460-6474.*
+**Boyu Ma**, Zongwu Xie, Bowen Zhan, Zainan Jiang, Yang Liu, and Hong Liu. *IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2023, 53(10): 6460-6474.*
 
 [3] **Neurodynamics-based configuration transformation with engineering application to robot manipulators using two intelligent approaches.**   
-**Boyu Ma**, Zongwu Xie, Xiaohang Yang, Yang Liu, Zhengpu Wang, and Zainan Jiang
-*Engineering Applications of Artificial Intelligence, 2023, 120: 105861.*
+**Boyu Ma**, Zongwu Xie, Xiaohang Yang, Yang Liu, Zhengpu Wang, and Zainan Jiang. *Engineering Applications of Artificial Intelligence, 2023, 120: 105861.*
 
 [4] **Precise semi-analytical inverse kinematic solution for 7-DOF offset manipulator with arm angle optimization.**   
-**Boyu Ma**, Zongwu Xie, Zainan Jiang, and Hong Liu.   
-*Frontiers of Mechanical Engineering, 2021, 16(3): 435-450.*
+**Boyu Ma**, Zongwu Xie, Zainan Jiang, and Hong Liu. *Frontiers of Mechanical Engineering, 2021, 16(3): 435-450.*
 
 For more publications, please visit Boyu Ma’s [Google Scholar](https://scholar.google.com/citations?user=G_A_uvwAAAAJ&hl=en).
  
