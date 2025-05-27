@@ -3,7 +3,7 @@ title: Chenxi Jiang
 search:
   - C. Jiang
 role: master
-affiliation: BUAA (BEng)
+affiliation: Human-Robot Interaction
 group: current
 image: images/members/jiang-chenxi.jpg
 email: CHENXI003@e.ntu.edu.sg
