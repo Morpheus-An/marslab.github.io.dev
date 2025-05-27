@@ -3,7 +3,7 @@ title: Xinyan Chen
 search:
   - X. Chen
 role: phd
-affiliation: NTU (BEng)
+affiliation: Multimodal Sensing
 group: current
 image: images/members/xinyan-chen.jpeg
 email: chenxinyan0914@gmail.com
