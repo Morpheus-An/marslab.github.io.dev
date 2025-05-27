@@ -3,7 +3,7 @@ title: Chuhao Zhou
 search:
   - C. Zhou
 role: phd
-affiliation: Multimodal Large Language Model
+affiliation: HIT-SZ (BEng, MEng)
 group: current
 image: images/members/chuhao-zhou.jpg
 email: zhouchuhao99@gmail.com
