@@ -33,12 +33,12 @@ We thank all MARS Lab alumni for their invaluable contributions and wish them br
 
 ### Master of Science (Msc)
 <ul>
-  <li><strong>Zuo Jia</strong> - [mmWave Radar Sensing for ECG] (2023-2024)</li>
+  <li><strong>Zuo Jia</strong> (XPENG Humanoid Robot) - [mmWave Radar Sensing for ECG] (2023-2024)</li>
   <li><strong>Li Han</strong> (BYD) - [3D Pose Estimation in Hyperbolic Space] (2023-2024)</li>
   <li><strong>Ma Zhenduo</strong> (AVIC Aerodynamics Research Institute) - [WiFi Sensing using WiFi-7] (2023-2024)</li>
   <li><strong>Huang Runxi</strong> (HKUST, PhD) - [Wireless Human Pose Rendering] (2023-2024)</li>
   <li><strong>Huang Shunyu</strong> (TSMC) - [Graph Transfer Learning for Cross-Modal Supervision] (2022-2024)</li>
-  <li><strong>Wang Junfei</strong> - [Federated Learning with Blockchains] (2022-2024)</li>
+  <li><strong>Wang Junfei</strong> (HUAWEI) - [Federated Learning with Blockchains] (2022-2024)</li>
   <li><strong>Tang Shijie</strong> (National Intellectual Property Administration) - [Bimodal Learning for WiFi-Vision Human Pose Estimation] (2022-2023)</li>
   <li><strong>Yan Mingxue</strong> (NTU, PhD) - [Vital Sign Detection via mmWave Radar and Deep Learning] (2022-2023)</li>
   <li><strong>Deng Lang</strong> (UESTC, PhD) - [WiFi and Camera Fusion for Smart Sensing] (2021-2022)</li>
