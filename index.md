@@ -8,11 +8,13 @@ MARS Lab studies **Physical AI**, focusing on how AI can enable physical systems
 {% include section.html %}
 
 ## News
-- Feb 2025: (funding) Our project is supported by **Microsoft Accelerating Foundation Models Research** ($50K GPU).
+- May 2025: (member) Our first **humanoid** robot member "MARS-1" is coming to the lab.
+- Feb 2025: (project) Our lab established a collaboration with Abio for robotic lab automation.
+- Feb 2025: (funding) Our project is supported by **Microsoft Accelerating Foundation Models Research**.
 - Feb 2025: (paper) Our paper (Feedback Neural Network) is selected as an **ICLR oral paper (top 1.8%)**.
 - Jan 2025: (paper) Two papers (on X-Fi and Feedback Neural Network) are accepted by **ICLR-25**.
 - Jan 2025: (paper) One paper on point registration is accepted by **ICRA-25**. Congrats to our undergrad intern, Geng Li!
-- Jan 2025: (project) Our lab participates in **Meta Project Aria**!
+- Jan 2025: (project) Our lab participates in **Project Aria** by **Meta**!
 - Sep 2024: (award) The 1st PhD student, Zhou Chuhao, won the **first place** at ECCV-24 Data Distillation Challenge. Congratulations!
 - Sep 2024: (kick-off) Prof. Jianfei Yang launched **MARS Lab** at the Robotics Research Center, NTU.
 
@@ -22,7 +24,7 @@ MARS Lab studies **Physical AI**, focusing on how AI can enable physical systems
 
 {% capture text %}
 
-At MARS Lab, we study all aspects of Physical AI, ranging from multimodal perception and robotic manipulation to embodied locomotion and AIoT integration, enabling intelligent machines to perceive, act, and adapt seamlessly in the physical world.
+At MARS Lab, we mainly study Human-Centric Physical AI and Robotics, ranging from multimodal perception, human-robot interaction, robotic manipulation, and embodied locomotion with AIoT integration, enabling intelligent machines to perceive, act, and adapt seamlessly in the physical world.
 
 {%
   include button.html
