@@ -38,6 +38,10 @@
   {%- if include.role == "phd" -%}
   {%- assign roletext = "PhD Student" -%}
   {%- endif -%}
+
+  {%- if include.role == "phd-co" -%}
+  {%- assign roletext = "PhD Student<br>(co-supervised)" -%}
+  {%- endif -%}
   
   {%- if include.role == "master" -%}
   {%- assign roletext = "MEng Student (Research)" -%}
