@@ -1,7 +1,8 @@
 ---
 title: Yunjiao Zhou
-role: phd
+role: phd-co
 image: images/members/yunjiao-zhou.jpg
+group: current
 affiliation: Multimodal learning
 email: yunjiao001@e.ntu.edu.sg
 ---
