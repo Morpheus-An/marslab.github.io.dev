@@ -169,3 +169,20 @@
     - Robot task planning
     - Vagueness
     - LLMs
+- id: arXiv:2505.17645 
+  publisher: arXiv 2025
+  date: 2025-05-23
+  image: images/papers/chuhao-holollm-arxiv25.png
+  group: highlighted
+  buttons:
+    - type: paper
+      link: https://doi.org/10.48550/arXiv.2505.17645
+    - type: github
+      text: Github
+      link: ChuhaoZhou99/HoloLLM
+    - type: website
+      text: Website
+      link: https://chuhaozhou99.github.io/HoloLLM
+  tags:
+    - Multisensory foundation model
+    - Human perception and reasoning

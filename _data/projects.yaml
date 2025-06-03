@@ -48,3 +48,12 @@
     - Robot task planning
     - Vagueness
     - LLMs
+- title: HoloLLM
+  subtitle: Multisensory Foundation Model for Language-Grounded Human Sensing and Reasoning
+  image: images/papers/chuhao-holollm-arxiv25.png
+  link: https://arxiv.org/abs/2505.17645
+  description: Multimodal Large Language Model integrating rare but powerful sensor inputs to achieve seamless human perception and reasoning.
+  repo: https://github.com/ChuhaoZhou99/HoloLLM
+  tags:
+    - Multisensory foundation model
+    - Human perception and reasoning
