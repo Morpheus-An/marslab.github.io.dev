@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["social-link.scss"],"names":[],"mappings":"AAEA;EACE;EACA;EACA","sourcesContent":["@import \"variables\";\n\n.social_link {\n  display: inline-block;\n  padding: 10px;\n  text-decoration: none;\n}\n"],"file":"social-link.css"}
