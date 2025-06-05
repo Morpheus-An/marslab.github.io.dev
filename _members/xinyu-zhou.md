@@ -2,7 +2,7 @@
 title: Xinyu Zhou
 search:
   - X. Zhou
-role: Postdoc
+role: postdoc
 group: current
 image: images/members/xinyu-zhou.jpg
 affiliation: Computer Vision
