@@ -9,7 +9,7 @@ nav:
 
 {% include figure.html 
    image="images/members/mars_lab_team.jpg" 
-   link="members" 
+   link="team" 
    caption="Team of MARS Lab" 
    width="100%" 
    height="auto"
