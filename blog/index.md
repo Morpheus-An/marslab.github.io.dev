@@ -12,7 +12,7 @@ nav:
    link="team"
    caption="Team of MARS Lab" 
    img_style="
-      max-width: 400px;
+      max-width: 800px;
       height: auto;
       display: block;
       vertical-align: top; 
