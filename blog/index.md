@@ -7,7 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-<img src="/images/members/mars_lab_team.jpg" style="width:100%; max-width:600px;" />
+{% include figure.html 
+   image="images/members/mars_lab_team.jpg" 
+   link="members" 
+   caption="Team members of our MARS Lab" 
+   width="100%" 
+   height="auto"
+%}
 
 We record our lab life, team building, and academic activities here.
 
