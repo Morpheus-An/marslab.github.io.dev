@@ -11,7 +11,15 @@ nav:
    image="images/members/mars_lab_team.jpg" 
    link="team"
    caption="Team of MARS Lab" 
-   img_style="object-fit: contain; width: 100%; height: 100%;" 
+   img_style="
+      max-width: 400px;
+      height: auto;
+      display: block;
+      vertical-align: top; 
+      margin: 0;
+      padding: 0;
+      line-height: 0;
+      background-color: inherit;"
 %}
 
 We record our lab life, team building, and academic activities here.
