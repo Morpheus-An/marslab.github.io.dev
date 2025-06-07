@@ -9,6 +9,7 @@
   flex-direction: column;
   // margin: 40px 0;
   margin: 0 0;
+  padding: 0;
   @include trim-margins;
 
   .figure_image {
@@ -17,6 +18,9 @@
       max-height: 300px;
       // max-height: 350px;
       display: block; // Add this line
+      // Add to eliminate white edge
+      margin: 0;
+      padding: 0;
     }
   }
 
@@ -33,6 +37,9 @@
       box-shadow: $shadow;
 
       img {
+        // Add following two lines
+        margin: 0;
+        padding: 0;
         transition: transform $fast;
       }
 
