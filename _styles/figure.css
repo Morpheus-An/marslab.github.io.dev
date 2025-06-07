@@ -4,6 +4,7 @@
   align-items: center;
   flex-direction: column;
   margin: 0 0;
+  padding: 0;
 }
 .figure:first-child {
   margin-top: 0;
@@ -13,8 +14,13 @@
 }
 .figure .figure_image img[data-default=true] {
   max-width: 400px;
-  max-height: 300px;
+  height: auto;
   display: block;
+  vertical-align: top;
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+  background-color: inherit;
 }
 .figure .figure_caption {
   margin-top: 10px;
@@ -27,6 +33,8 @@
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2509803922);
 }
 .figure[data-flat=false] .figure_image img {
+  margin: 0;
+  padding: 0;
   transition: transform 0.25s ease;
 }
 .figure[data-flat=false] .figure_image:hover img {
