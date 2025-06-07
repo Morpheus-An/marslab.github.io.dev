@@ -12,7 +12,7 @@ nav:
    link="team"
    caption="Team of MARS Lab" 
    width="100%" 
-   height="105%"
+   height="auto"
 %}
 
 We record our lab life, team building, and academic activities here.
