@@ -11,16 +11,21 @@
   margin: 0 0;
   padding: 0;
   @include trim-margins;
+  // Add
+  display: block;
 
   .figure_image {
     img[data-default="true"] {
-      max-width: 400px;
-      max-height: 300px;
+      max-width: 100%;
+      cmax-height: 100%;
+      // max-width: 400px;
+      // max-height: 300px;
       // max-height: 350px;
       display: block; // Add this line
       // Add to eliminate white edge
       margin: 0;
       padding: 0;
+      object-fit: cover;
     }
   }
 
