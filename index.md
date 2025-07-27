@@ -8,7 +8,8 @@ MARS Lab studies **Physical AI**, focusing on how AI can enable physical systems
 {% include section.html %}
 
 ## News
-- May 2025: (member) Our first **humanoid** robot member "MARS-1" is coming to the lab.
+- Jun 2025: (paper) Two papers are accepted by **IROS-25**!
+- May 2025: (member) Our first **humanoid** robot member, "MARS-H," is coming to the lab.
 - Feb 2025: (project) Our lab established a collaboration with Abio for robotic lab automation.
 - Feb 2025: (funding) Our project is supported by **Microsoft Accelerating Foundation Models Research**.
 - Feb 2025: (paper) Our paper (Feedback Neural Network) is selected as an **ICLR oral paper (top 1.8%)**.
