@@ -1,6 +1,6 @@
 - title: SenseFi Library
   subtitle: Library and benchmark
-  group: featured
+  # group: featured
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2666389923000405-gr3.jpg
   link: https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark
   description: The world-first open-source benchmark on deep learning-empowered WiFi sensing.
@@ -11,7 +11,7 @@
 
 - title: MM-Fi Dataset
   subtitle: Multimodal 4D Human Dataset
-  group: featured
+  # group: featured
   image: images/gif/mm-fi-dataset.gif
   link: https://ntu-aiot-lab.github.io/mm-fi
   description: The world-first multi-modal non-intrusive 4D human dataset (RGB, Depth, LiDAR, mmWave, WiFi).
@@ -21,7 +21,7 @@
 
 - title: ARID Dataset
   subtitle: A New Dataset for Human Action Recognition in the Dark
-  group: featured
+  # group: featured
   image: images/papers/ARID-datasets.png
   link: https://xuyu0010.github.io/arid
   description: Dataset for CVPR UG2+ Challenge (2021-2022)
@@ -40,16 +40,18 @@
     - UDA
 - title: REI-Bench
   subtitle: Benchmarking Vague Human Instructions in Task Planning
+  group: featured
   image: images/papers/chenxi-reibench-arxiv25.png
   link: https://arxiv.org/abs/2505.10872
   description: Model and explore how vague human instructions affect embodied task planning.
-  repo: https://arxiv.org/abs/2505.10872
+  repo: https://homeostasis-diversity.github.io/REI-Bench-web/
   tags:
     - Robot task planning
     - Vagueness
     - LLMs
 - title: HoloLLM
   subtitle: Multisensory Foundation Model for Language-Grounded Human Sensing and Reasoning
+  group: featured
   image: images/papers/chuhao-holollm-arxiv25.png
   link: https://arxiv.org/abs/2505.17645
   description: Multimodal Large Language Model integrating rare but powerful sensor inputs to achieve seamless human perception and reasoning.
@@ -57,3 +59,13 @@
   tags:
     - Multisensory foundation model
     - Human perception and reasoning
+- title: Humanoid Teleoperation
+  subtitle: Humanoid Robot Teleoperation Technique based on Meta Quest VR Headsets.
+  group: featured
+  image: images/papers/kuangji_xiaoyang-humanoid-arxiv25.gif
+  link: #Paper Code Link#
+  description: Real-time, complex humanoid teleoperation via Meta Quest VR headsets, achieving diverse manipulation tasks and whole-body locomotion.
+  tags:
+    - Humanoid Teleoperation
+    - Manipulation
+    - Whole-Body Locomotion
