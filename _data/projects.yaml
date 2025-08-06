@@ -57,3 +57,12 @@
   tags:
     - Multisensory foundation model
     - Human perception and reasoning
+- title: Humanoid Teleoperation
+  subtitle: Humanoid Robot Teleoperation Technique based on Meta Quest VR Headsets.
+  image: images/papers/kuangji_xiaoyang-humanoid-arxiv25.gif
+  link: #Paper Code Link#
+  description: Real-time, complex humanoid teleoperation via Meta Quest VR headsets, achieving diverse manipulation tasks and whole-body locomotion.
+  tags:
+    - Humanoid Teleoperation
+    - Manipulation
+    - Whole-Body Locomotion
