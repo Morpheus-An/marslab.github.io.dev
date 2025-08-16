@@ -5,7 +5,7 @@ search:
 role: phd
 group: current
 image: images/members/jiaqi-bai.jpg
-affiliation: Embodied AI
+affiliation: TBD
 email: baij0018@e.ntu.edu.sg
 twitter: Jason3973699328
 linkedin: linkedin.com/in/9jason
