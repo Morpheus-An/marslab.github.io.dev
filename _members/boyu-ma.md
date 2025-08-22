@@ -4,7 +4,7 @@ search:
   - B. Ma
 role: postdoc
 group: current
-image: images/members/boyu-ma.jpg
+image: images/members/boyu-ma-life.jpg
 affiliation: Robotics
 # email: jianfei.yang@ntu.edu.sg
 # twitter: Jianfei_AI
@@ -12,7 +12,7 @@ affiliation: Robotics
 # linkedin: jianfei-yang-55560386
 ---
 
-Dr. Ma is a Postdoctoral Research Fellow at Nanyang Technological University, working with [Prof. Jianfei Yang](https://marsyang.site/). He received the China National Scholarship (Top 0.1%) among other honors, and served as a Torchbearer for the 2021 FISU World University Games. His research interests include robotics and embodied AI.
+Dr. Ma is a Postdoctoral Research Fellow at Nanyang Technological University, working with [Prof. Jianfei Yang](https://marsyang.site/). He received the China National Scholarship (Top 0.1%) among other honors, and served as a Torchbearer for the 2021 FISU World University Games. His research interests include robotics and embodied AI. For further information, please visit his [personal homepage](https://ma-boyu.github.io/).
  
 ### Experience
 - Postdoctoral Research Fellow, 2025-present

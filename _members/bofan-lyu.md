@@ -4,11 +4,11 @@ search:
   - B. Lyu
 role: phd
 group: current
-image: images/members/lyu-bofan.jpg
+image: images/members/bofan-lyu.jpg
 affiliation: TBD
 ---
 
-Bofan Lyu is a currently a PhD student at Nanyang Technological University, supervised by Prof.Jianfei Yang. His research interests include robotic, embodied AI.
+Bofan Lyu is currently a PhD student at Nanyang Technological University, supervised by Prof.Jianfei Yang. His research interests include robotic, embodied AI.
  
 ### Education
 - Master of Science, 2021-2023
