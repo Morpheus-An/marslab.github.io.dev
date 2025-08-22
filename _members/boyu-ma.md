@@ -4,7 +4,7 @@ search:
   - B. Ma
 role: postdoc
 group: current
-image: images/members/boyu-ma.jpg
+image: images/members/boyu-ma-life.jpg
 affiliation: Robotics
 # email: jianfei.yang@ntu.edu.sg
 # twitter: Jianfei_AI
