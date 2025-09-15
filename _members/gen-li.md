@@ -4,7 +4,7 @@ search:
   - G. Li
 role: postdoc
 group: current
-image: images/members/li-gen.jpg
+image: images/members/gen-li.jpg
 affiliation: Embodied AI
 email: ligen@g.skku.edu
 twitter: 
