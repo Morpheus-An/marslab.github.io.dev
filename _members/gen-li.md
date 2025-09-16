@@ -38,19 +38,27 @@ Dr. Li is a Postdoctoral Research Fellow at Nanyang Technological University, wo
 
 ### Selected Publications
 [1] **Learning Precise Affordances from Egocentric Videos for Robotic Manipulation**   
+
 **Gen Li**, Nikolaos Tsagkas, Jifei Song, Ruaridh Mon-Williams, Sethu Vijayakumar, Kun Shao, and Laura Sevilla-Lara 
+
 *International Conference on Computer Vision (ICCV), 2025*
 
 [2] **Embodied Large Language Models Enable Robots to Complete Complex Tasks in Unpredictable Environments**
+
 Ruaridh Mon-Williams, **Gen Li**, Ran Long, Wenqian Du, and Chris Lucas
+
 *Nature Machine Intelligence, 2025*
 
 [3] **One-Shot Open Affordance Learning with Foundation Models**   
+
 **Gen Li**, Deqing Sun, Laura Sevilla-Lara, and Varun Jampani
+
 *Computer Vision and Pattern Recognition (CVPR), 2024*
 
 [4] **LOCATE: Localize and Transfer Object Parts for Weakly Supervised Affordance Grounding**   
+
 **Gen Li**, Varun Jampani, Deqing Sun, and Laura Sevilla-Lara
+
 *Computer Vision and Pattern Recognition (CVPR), 2023*
 
 For the full publication list, please refer to Gen's [Google Scholar](https://scholar.google.com/citations?user=Rfh4mm0AAAAJ).
