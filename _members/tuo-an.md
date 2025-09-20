@@ -5,7 +5,7 @@ role: phd
 affiliation: TBD
 group: current
 image: images/members/tuo-an.jpg
-email: 1482414488@qq.com
+email: ANTU0001@e.ntu.edu.sg
 ---
 
 Tuo An will join MARS lab as a PHD student in Aug 2025. His research interests include Multimodal LLM, Embodied AI, and NLP.
@@ -22,7 +22,7 @@ Tuo An will join MARS lab as a PHD student in Aug 2025. His research interests i
 
 ### Experience
 - Research Intern, 2023
-  - HPC-AI lab, National University of Sigapore.
+  - HPC-AI lab, National University of Sigapore
 - Research Intern, 2024
   - MARS lab, Nanyang Technological University
 - Intern, 2024
