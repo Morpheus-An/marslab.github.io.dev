@@ -4,7 +4,7 @@ search:
 role: phd
 affiliation: TBD
 group: current
-image: images/members/tuo-an.jpg
+image: images/members/tuo_an_life.jpg
 email: ANTU0001@e.ntu.edu.sg
 ---
 
