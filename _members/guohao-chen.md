@@ -4,7 +4,7 @@ search:
 role: research assistant
 affiliation: Test-time intelligence
 group: current
-image: chenguohao.jpg
+image: 	images/members/guohao_chen.jpg
 email: guohao.chen@ntu.edu.sg
 ---
 
