@@ -1,7 +1,7 @@
 
 # Homepage of NTU MARS Lab
 
-Visit **[morpheus-an.github.io/marslab.github.io.dev](https://morpheus-an.github.io/marslab.github.io.dev)** 🚀
+Visit **[marslab.tech](http://marslab.tech)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
