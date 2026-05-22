@@ -1,10 +1,10 @@
 ---
 title: Guohao Chen
 search:
-role: research assistant
+role: ra
 affiliation: Test-time intelligence
 group: current
-image: 	images/members/guohao_chen.jpg
+image: images/members/guohao_chen.jpg
 email: guohao.chen@ntu.edu.sg
 ---
 
@@ -31,33 +31,40 @@ Guohao Chen is a Research Assistant at Nanyang Technological University, working
 
 ### Publications
 
-* indicates equal contribution.
+  *indicates equal contribution.
 
 - **Cross-Device Collaborative Test-Time Adaptation**
+
   **Guohao Chen**, Shuaicheng Niu, Deyu Chen, Shuhai Zhang, Changsheng Li, Yuanqing Li, Mingkui Tan
   Conference on Neural Information Processing Systems (**NeurIPS**), 2024
 
 - **Uncertainty-Calibrated Test-Time Model Adaptation without Forgetting**
+
   Mingkui Tan*, **Guohao Chen***, Jiaxiang Wu, Yifan Zhang, Yaofo Chen, Peilin Zhao, Shuaicheng Niu
   IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025
 
 - **ZeroSiam: Efficient Siamese for Test-Time Entropy Optimization without Collapse**
+
   **Guohao Chen**, Shuaicheng Niu, Deyu Chen, Mingkui Tan, Pengcheng Wu, Zhiqi Shen
   International Conference on Learning Representations (**ICLR**), 2026
 
 - **Test-Time Model Adaptation with Only Forward Passes**
+
   Shuaicheng Niu, Chunyan Miao, **Guohao Chen** (co-presenter), Pengcheng Wu, Peilin Zhao
   International Conference on Machine Learning (**ICML**), 2024, Oral, top 1.5%
 
 - **Self-Bootstrapping for Versatile Test-Time Adaptation**
+
   Shuaicheng Niu*, **Guohao Chen***, Peilin Zhao, Tianyi Wang, Pengcheng Wu, Zhiqi Shen
   International Conference on Machine Learning (**ICML**), 2025
 
 - **Test-Time Model Adaptation for Quantized Neural Networks**
+
   Zeshuai Deng*, **Guohao Chen***, Shuaicheng Niu, Hui Luo, Yifan Yang, Wei Luo, Mingkui Tan
   ACM International Conference on Multimedia (**ACM MM**), 2025
 
 - **Test-Time Learning for Large Language Models**
+
   Jinwu Hu*, Zitian Zhang*, **Guohao Chen***, Xutao Wen, Chao Shuai, Wei Luo, Bin Xiao, Yuanqing Li, Mingkui Tan
   International Conference on Machine Learning (**ICML**), 2025
 
