@@ -31,7 +31,7 @@ Guohao Chen is a Research Assistant at Nanyang Technological University, working
 
 ### Publications
 
-  *indicates equal contribution.
+  \* indicates equal contribution.
 
 - **Cross-Device Collaborative Test-Time Adaptation**
 
@@ -40,7 +40,7 @@ Guohao Chen is a Research Assistant at Nanyang Technological University, working
 
 - **Uncertainty-Calibrated Test-Time Model Adaptation without Forgetting**
 
-  Mingkui Tan*, **Guohao Chen***, Jiaxiang Wu, Yifan Zhang, Yaofo Chen, Peilin Zhao, Shuaicheng Niu
+  Mingkui Tan\*, **Guohao Chen**\*, Jiaxiang Wu, Yifan Zhang, Yaofo Chen, Peilin Zhao, Shuaicheng Niu
   IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025
 
 - **ZeroSiam: Efficient Siamese for Test-Time Entropy Optimization without Collapse**
@@ -55,17 +55,17 @@ Guohao Chen is a Research Assistant at Nanyang Technological University, working
 
 - **Self-Bootstrapping for Versatile Test-Time Adaptation**
 
-  Shuaicheng Niu*, **Guohao Chen***, Peilin Zhao, Tianyi Wang, Pengcheng Wu, Zhiqi Shen
+  Shuaicheng Niu\*, **Guohao Chen**\*, Peilin Zhao, Tianyi Wang, Pengcheng Wu, Zhiqi Shen
   International Conference on Machine Learning (**ICML**), 2025
 
 - **Test-Time Model Adaptation for Quantized Neural Networks**
 
-  Zeshuai Deng*, **Guohao Chen***, Shuaicheng Niu, Hui Luo, Yifan Yang, Wei Luo, Mingkui Tan
+  Zeshuai Deng\*, **Guohao Chen**\*, Shuaicheng Niu, Hui Luo, Yifan Yang, Wei Luo, Mingkui Tan
   ACM International Conference on Multimedia (**ACM MM**), 2025
 
 - **Test-Time Learning for Large Language Models**
 
-  Jinwu Hu*, Zitian Zhang*, **Guohao Chen***, Xutao Wen, Chao Shuai, Wei Luo, Bin Xiao, Yuanqing Li, Mingkui Tan
+  Jinwu Hu\*, Zitian Zhang\*, **Guohao Chen**\*, Xutao Wen, Chao Shuai, Wei Luo, Bin Xiao, Yuanqing Li, Mingkui Tan
   International Conference on Machine Learning (**ICML**), 2025
 
 For the full publication list, please refer to Guohao's [Google Scholar](https://scholar.google.com/citations?user=HZbzdNEAAAAJ&hl=zh-CN).
